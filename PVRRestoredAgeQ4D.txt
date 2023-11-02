@@ -3128,11 +3128,11 @@
 		30 Submerged Titangill
 		30 Felygon Skyswarm
 	[BasicSlot(1)]
-		1 Island
-		1 Mountain
-		1 Swamp
-		1 Forest
-		1 Plains
+		30 Island
+		30 Mountain
+		30 Swamp
+		30 Forest
+		30 Plains
 	[VertexSlot(1)]
-		30 Vertex Reminder
+		300 Vertex Reminder
 	
