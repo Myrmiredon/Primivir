@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<cards>
+
+<card>
+ <name>Bird</name>
+ <set picURL="/Bird.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <type>Token Artifact Creature - Bird </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Treasure</name>
+ <set picURL="/Treasure.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <type>Token Artifact - Treasure </type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Dinosaur</name>
+ <set picURL="/Dinosaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <type>Token Creature - Dinosaur </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Fractal Horror</name>
+ <set picURL="/Fractal Horror.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <type>Token Creature - Fractal Horror </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Fractal Reflection</name>
+ <set picURL="/Fractal Reflection.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <type>Token Creature - Fractal Reflection </type>
+ <pt></pt>
+ <tablerow>2</tablerow>
+ <text>T: Add G or U.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Horror</name>
+ <set picURL="/Horror.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <type>Token Creature - Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Human</name>
+ <set picURL="/Human.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <type>Token Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Nilvoid</name>
+ <set picURL="/Nilvoid.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <type>Token Land</type>
+ <tablerow>0</tablerow>
+ <text>Hexproof
+T: Add one mana of any color.</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

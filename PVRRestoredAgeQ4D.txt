@@ -1,0 +1,3136 @@
+[CustomCards]
+	[    {
+	        "name": "Gift of Wilderness",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Gift%20of%20Wilderness.jpg"
+	        }
+	    },
+	    {
+	        "name": "Disregarded Project",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact Creature — Zombie Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Disregarded%20Project.jpg"
+	        }
+	    },
+	    {
+	        "name": "Epoch Ending",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Epoch%20Ending.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gathering Olorosaurs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Gathering%20Olorosaurs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heirloom of the Obsolete",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Heirloom%20of%20the%20Obsolete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Abstraction Peeler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Zombie Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Abstraction%20Peeler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Recovered Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Recovered%20Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prophetic Prism",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prophetic%20Prism.jpg"
+	        }
+	    },
+	    {
+	        "name": "Height Map",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Height%20Map.jpg"
+	        }
+	    },
+	    {
+	        "name": "Anivir, Forgotten Savior",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Planeswalker — Anivir ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Anivir%2c%20Forgotten%20Savior.jpg"
+	        }
+	    },
+	    {
+	        "name": "Extruded Skyscraper",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Extruded%20Skyscraper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Absorption",
+	        "rarity": "common",
+	        "mana_cost": "{X}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Absorption.jpg"
+	        }
+	    },
+	    {
+	        "name": "Awakened Marauder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Artifact Creature — Zombie Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Awakened%20Marauder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prepackaged Assembly",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prepackaged%20Assembly.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sun Pouncer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Dinosaur Crocodile ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Sun%20Pouncer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tatu-Peba",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Pangolin ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tatu-Peba.jpg"
+	        }
+	    },
+	    {
+	        "name": "Graceful Coelurosaur",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Graceful%20Coelurosaur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Downscaled Matrongon",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Fractal Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Downscaled%20Matrongon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Harsurfir Scavenger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Dinosaur Dog ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%20Scavenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hellish Inferngon",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Fractal Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hellish%20Inferngon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swiftfoot Striker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Swiftfoot%20Striker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Maeverano Herdmate",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Maeverano%20Herdmate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stonehewn Colossus",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Stonehewn%20Colossus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coordinated Hunt",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Coordinated%20Hunt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spoils of Scarcity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Spoils%20of%20Scarcity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Conflagration",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Conflagration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overharvest",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Overharvest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Into the Mines",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Into%20the%20Mines.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tragedy of the Commons",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tragedy%20of%20the%20Commons.jpg"
+	        }
+	    },
+	    {
+	        "name": "Render Flesh",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Render%20Flesh.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bevelled Cliffs",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Bevelled%20Cliffs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cubic Flames",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cubic%20Flames.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesseractapillar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tesseractapillar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Charging Argosaur",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Charging%20Argosaur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lush Stamengon",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Fractal Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Lush%20Stamengon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Humongous Detritivore",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Humongous%20Detritivore.jpg"
+	        }
+	    },
+	    {
+	        "name": "Herald of the Restored Age",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Herald%20of%20the%20Restored%20Age.jpg"
+	        }
+	    },
+	    {
+	        "name": "Apex of Antiquity",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Apex%20of%20Antiquity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crude Onslaught",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Crude%20Onslaught.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primal Power",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Primal%20Power.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dawngon Infusion",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Dawngon%20Infusion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Burrow Deep",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Burrow%20Deep.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overlaid Bridge",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Overlaid%20Bridge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plummeting Smash",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Plummeting%20Smash.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mesh Rot",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Mesh%20Rot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Specular Shack",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Specular%20Shack.jpg"
+	        }
+	    },
+	    {
+	        "name": "Virgin Media",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Virgin%20Media.jpg"
+	        }
+	    },
+	    {
+	        "name": "Laggymorph",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Rabbit ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Laggymorph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Polystone Quarry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Polystone%20Quarry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blazefoxes of Moz",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Fox ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Blazefoxes%20of%20Moz.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sunbound Swarm",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Sunbound%20Swarm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overclocked Dragon",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Overclocked%20Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Geometric Singularity",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Geometric%20Singularity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mana Void",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Mana%20Void.jpg"
+	        }
+	    },
+	    {
+	        "name": "Emerging Wildlife",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Emerging%20Wildlife.jpg"
+	        }
+	    },
+	    {
+	        "name": "Elder Gigantops",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Ape ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Elder%20Gigantops.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stampeding Goliath",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Elephant ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Stampeding%20Goliath.jpg"
+	        }
+	    },
+	    {
+	        "name": "Territorial Primarch",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Territorial%20Primarch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slipstream Enigma",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Leviathan ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Slipstream%20Enigma.jpg"
+	        }
+	    },
+	    {
+	        "name": "Armament of Armageddon",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Artifact Creature — Zombie Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Armament%20of%20Armageddon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Escape the Nilshroud",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Escape%20the%20Nilshroud.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sacred Signs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Sacred%20Signs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Felygon Sentinel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Parallaxadaisical Dengon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Fractal Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Parallaxadaisical%20Dengon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Orchard Vixen",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Fox ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Orchard%20Vixen.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Downscaling",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/The%20Downscaling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vertex Reminder",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": " ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Vertex%20Reminder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Custodian of Reality",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Artifact Creature — Zombie Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Custodian%20of%20Reality.jpg"
+	        }
+	    },
+	    {
+	        "name": "Superficial Salvation",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Superficial%20Salvation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prawth, Planar Decimator",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{B}",
+	        "type": "Legendary Planeswalker — Prawth ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prawth%2c%20Planar%20Decimator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cache Dredger",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Skeleton Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cache%20Dredger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Horizon Collector",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Zombie Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Horizon%20Collector.jpg"
+	        }
+	    },
+	    {
+	        "name": "A Populated World",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/A%20Populated%20World.jpg"
+	        }
+	    },
+	    {
+	        "name": "Imperial Excommunicator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Artifact Creature — Zombie Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Imperial%20Excommunicator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Revitalised Cryptid",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Revitalised%20Cryptid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stick Retriever",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{G}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Stick%20Retriever.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Predator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Dinosaur Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Predator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urwrapir Matriarch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Matriarch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Uverngon's Messenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Uverngon%27s%20Messenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira Depths Trawler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Shark ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Depths%20Trawler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Extinct Rebel",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Extinct%20Rebel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slumbering Dreadblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Slumbering%20Dreadblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nightmarish Terrain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nightmarish%20Terrain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Savage Pike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Savage%20Pike.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prawth's Research Station",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prawth%27s%20Research%20Station.jpg"
+	        }
+	    },
+	    {
+	        "name": "Symmetric Construction",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Symmetric%20Construction.jpg"
+	        }
+	    },
+	    {
+	        "name": "Defragment",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Defragment.jpg"
+	        }
+	    },
+	    {
+	        "name": "Obsolete Renaissance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Obsolete%20Renaissance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Burn Barren",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Burn%20Barren.jpg"
+	        }
+	    },
+	    {
+	        "name": "Settle Inhospitable Lands",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Settle%20Inhospitable%20Lands.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urwrapir Explorations",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Explorations.jpg"
+	        }
+	    },
+	    {
+	        "name": "Friend Collector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Friend%20Collector.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witness of the Obsolete",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Unicorn ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Witness%20of%20the%20Obsolete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Asset Manager",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Artifact Creature — Zombie Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Asset%20Manager.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chronicler of the Obsolete",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Mystic ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Chronicler%20of%20the%20Obsolete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consecrated Farmland",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Consecrated%20Farmland.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tainted Bureaucrat",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tainted%20Bureaucrat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Desperate Pathfinding",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Desperate%20Pathfinding.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ecocidal Tracker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Ecocidal%20Tracker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Energy Tax",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Energy%20Tax.jpg"
+	        }
+	    },
+	    {
+	        "name": "Felygon Scientist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Scientist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Harsh Sentence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Harsh%20Sentence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hierarchic Extortion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hierarchic%20Extortion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex Cartographer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Pilot ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Cartographer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quintarchal Bodyguard",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Artifact Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchal%20Bodyguard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shelter from the Elements",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Shelter%20from%20the%20Elements.jpg"
+	        }
+	    },
+	    {
+	        "name": "Harsurfir Ferrier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%20Ferrier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trapped in the Nilshroud",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Trapped%20in%20the%20Nilshroud.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warden of Inefficiencies",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Artifact Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Warden%20of%20Inefficiencies.jpg"
+	        }
+	    },
+	    {
+	        "name": "Saturated Savannah",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Saturated%20Savannah.jpg"
+	        }
+	    },
+	    {
+	        "name": "Memory Hole",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Memory%20Hole.jpg"
+	        }
+	    },
+	    {
+	        "name": "Occluded Bog",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Occluded%20Bog.jpg"
+	        }
+	    },
+	    {
+	        "name": "Delete",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Delete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kinematic Constrictor",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Kinematic%20Constrictor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nocturngon Infusion",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nocturngon%20Infusion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sentence to Oblivion",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Sentence%20to%20Oblivion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Backface Culling",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Backface%20Culling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bleak Return",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Bleak%20Return.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bog Snapper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Bog%20Snapper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Conscripted Serpengon",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Fractal Snake ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Conscripted%20Serpengon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ngonification",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Ngonification.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witness to Nil",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Zombie Wall ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Witness%20to%20Nil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Despawn",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Despawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Mulcher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Mulcher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soul Taker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Artifact Creature — Zombie Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Soul%20Taker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira Scavenger",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Dinosaur Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Scavenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Planetary Harvester",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Artifact Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Planetary%20Harvester.jpg"
+	        }
+	    },
+	    {
+	        "name": "Defiled Revengon",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Fractal Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Defiled%20Revengon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feasting Ruingon",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Fractal Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Feasting%20Ruingon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Uverngon, Quintarch Usurper",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Creature — Fractal Human ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Uverngon%2c%20Quintarch%20Usurper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nurbs' Familiar",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nurbs%27%20Familiar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boundary Break",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Boundary%20Break.jpg"
+	        }
+	    },
+	    {
+	        "name": "Draw Distance",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Draw%20Distance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Waypoint of Nil",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Waypoint%20of%20Nil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex Cemetery",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Cemetery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rasteriser",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rasteriser.jpg"
+	        }
+	    },
+	    {
+	        "name": "Recursive Steppe",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Recursive%20Steppe.jpg"
+	        }
+	    },
+	    {
+	        "name": "Felygon Reclaimer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Human Mystic ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Reclaimer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dread Discovery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Dread%20Discovery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Apocalypse Engine",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Apocalypse%20Engine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Anivir's Warning",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Anivir%27s%20Warning.jpg"
+	        }
+	    },
+	    {
+	        "name": "Null Terminator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Null%20Terminator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Normal Mapper",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Normal%20Mapper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Irticull's Crypt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Irticull%27s%20Crypt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Storm",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Storm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex Summons",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Summons.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boolean Lake",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Boolean%20Lake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Obfuscated Pier",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Obfuscated%20Pier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Origin Point",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Origin%20Point.jpg"
+	        }
+	    },
+	    {
+	        "name": "Garden of Nurbs",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Garden%20of%20Nurbs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wrecking Rover",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact Creature — Zombie Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Wrecking%20Rover.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blazing Devastatasaur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Blazing%20Devastatasaur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blazing Insetir",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Hellion ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Blazing%20Insetir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Colossal Giraffosaurs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{9}{R}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Colossal%20Giraffosaurs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Terror of Harsurfir",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Dinosaur Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Terror%20of%20Harsurfir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spawn Volcano",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Spawn%20Volcano.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chromatic Channel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Chromatic%20Channel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heart of Harsurfir",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Heart%20of%20Harsurfir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leaping Carnosaur",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Leaping%20Carnosaur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Subsurface Spawning",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Subsurface%20Spawning.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Latest Trends",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/The%20Latest%20Trends.jpg"
+	        }
+	    },
+	    {
+	        "name": "Resplendent Dawn",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Resplendent%20Dawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Senescence Vessel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Senescence%20Vessel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prefabricated Pryntir",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{G}{G}{G}",
+	        "type": "Creature — Fractal Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prefabricated%20Pryntir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex Regenerator",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Fox ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Regenerator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Guardian of Erfex Fens",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Guardian%20of%20Erfex%20Fens.jpg"
+	        }
+	    },
+	    {
+	        "name": "Asset Export",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Asset%20Export.jpg"
+	        }
+	    },
+	    {
+	        "name": "Edravir, Last of the Obsolete",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Artifact Creature — Survivor ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Edravir%2c%20Last%20of%20the%20Obsolete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Melodic Unwrapper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Melodic%20Unwrapper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Geometry Nodes",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Geometry%20Nodes.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urwrapir Looters",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Looters.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sparrow Spires",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Sparrow%20Spires.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mirrortusk",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elephant Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Mirrortusk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira Trawler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Trawler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira Reconstructor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Reconstructor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Productive Throng",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Citizen Nightmare ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Productive%20Throng.jpg"
+	        }
+	    },
+	    {
+	        "name": "Malevolent Beseecher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Zombie Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Malevolent%20Beseecher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex Revenant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Revenant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hierarch of Expiration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Artifact Creature — Zombie Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hierarch%20of%20Expiration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hatebloom Titangon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Plant Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hatebloom%20Titangon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ego Eroder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Artifact Creature — Zombie Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Ego%20Eroder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cruel Condor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cruel%20Condor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Oblivion Zealot",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact Creature — Zombie Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Oblivion%20Zealot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pattern Processing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Pattern%20Processing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex, Rotting Realm",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%2c%20Rotting%20Realm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira, the World Moat",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%2c%20the%20World%20Moat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Harsurfir, Godly Quarry",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%2c%20Godly%20Quarry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urwrapir, Restored Wilderness",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%2c%20Restored%20Wilderness.jpg"
+	        }
+	    },
+	    {
+	        "name": "Domination Center",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Domination%20Center.jpg"
+	        }
+	    },
+	    {
+	        "name": "Advocate of Heresy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Artifact Creature — Zombie Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Advocate%20of%20Heresy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Traversal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Traversal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Violator of Thermodynamics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Artifact Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Violator%20of%20Thermodynamics.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hierarch of Exultation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Zombie Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hierarch%20of%20Exultation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Serrated Angel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Artifact Creature — Zombie Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Serrated%20Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scavenged Technology",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Scavenged%20Technology.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tithing Protocol",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tithing%20Protocol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erfex Reclaimer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Reclaimer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Felygon, Utopian Sprawl",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%2c%20Utopian%20Sprawl.jpg"
+	        }
+	    },
+	    {
+	        "name": "Maturing Ankylosaur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Maturing%20Ankylosaur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urwrapir Warden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Warden.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sifter Wurm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Sifter%20Wurm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lost in Geometry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Lost%20in%20Geometry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Self-Intersector",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Self-Intersector.jpg"
+	        }
+	    },
+	    {
+	        "name": "Self-Assembling Phoenix",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Phoenix ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Self-Assembling%20Phoenix.jpg"
+	        }
+	    },
+	    {
+	        "name": "Render Time",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Render%20Time.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reject Input",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Reject%20Input.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shoal Summoner",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Shoal%20Summoner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Withered Scorngon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Fractal Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Withered%20Scorngon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cruelean's Enforcer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cruelean%27s%20Enforcer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Empty Scene",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land  — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Empty%20Scene.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cultivator's Caravan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Vehicle ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cultivator%27s%20Caravan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pot of Wishes",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Pot%20of%20Wishes.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boundless Ocean",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Boundless%20Ocean.jpg"
+	        }
+	    },
+	    {
+	        "name": "Buffer Zone",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Buffer%20Zone.jpg"
+	        }
+	    },
+	    {
+	        "name": "Extrude Wisdom",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Extrude%20Wisdom.jpg"
+	        }
+	    },
+	    {
+	        "name": "Manaqueduct",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Manaqueduct.jpg"
+	        }
+	    },
+	    {
+	        "name": "Migrating Songon",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Fractal Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Migrating%20Songon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Packet Loss",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Packet%20Loss.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hyperbolic Jumper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hyperbolic%20Jumper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Raving Crab",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Raving%20Crab.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urwrapir Ambusher",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Crocodile ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Ambusher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seafloor Scrounger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Trilobite ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Seafloor%20Scrounger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Security Breach",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Security%20Breach.jpg"
+	        }
+	    },
+	    {
+	        "name": "Obsolete Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Obsolete%20Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Squid Squad",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Squid ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Squid%20Squad.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nurbs' Collector",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Dinosaur Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nurbs%27%20Collector.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overfisher",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Overfisher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mesh Warper",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Artifact Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Mesh%20Warper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira Fiend",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Bear Mutant ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Fiend.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tidal Drift",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tidal%20Drift.jpg"
+	        }
+	    },
+	    {
+	        "name": "Submerged Titangill",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Shark ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Submerged%20Titangill.jpg"
+	        }
+	    },
+	    {
+	        "name": "Procedural Generation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Procedural%20Generation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pool of Becoming",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Pool%20of%20Becoming.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unlock the Quarternion",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Unlock%20the%20Quarternion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Turbulence Algorithm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Turbulence%20Algorithm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nurbs, the Wild King",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}{R}",
+	        "type": "Legendary Creature — Troll Demigod ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nurbs%2c%20the%20Wild%20King.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kinema, Queen Eternal",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}{W}",
+	        "type": "Legendary Creature — Human Demigod ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Kinema%2c%20Queen%20Eternal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cruelean, Ruler of None",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{W}{B}",
+	        "type": "Legendary Creature — Cyclops Demigod ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cruelean%2c%20Ruler%20of%20None.jpg"
+	        }
+	    },
+	    {
+	        "name": "Abandonmare",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Nightmare Horse ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Abandonmare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skirweigh, Abyssal Tsar",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}{U}",
+	        "type": "Legendary Creature — Demon Demigod ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Skirweigh%2c%20Abyssal%20Tsar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Systems Collapse",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Systems%20Collapse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Middleware Distributor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Zombie Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Middleware%20Distributor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quintarchs' Decree",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchs%27%20Decree.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quintarchal Pariah",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchal%20Pariah.jpg"
+	        }
+	    },
+	    {
+	        "name": "Irticull's Vanguard",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Irticull%27s%20Vanguard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ecocide",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Ecocide.jpg"
+	        }
+	    },
+	    {
+	        "name": "Edravir's Lynchpin",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Edravir%27s%20Lynchpin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urban Majesty",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Urban%20Majesty.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lord of the World Moat",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Whale ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Lord%20of%20the%20World%20Moat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Amphibious Emulator",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Amphibious%20Emulator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Luddite Infiltrator",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Luddite%20Infiltrator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Abstraction Breaker",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Abstraction%20Breaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flesh Centrifuge",
+	        "rarity": "rare",
+	        "mana_cost": "{7}{B}",
+	        "type": "Artifact Creature — Zombie Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Flesh%20Centrifuge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thassaraptor",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Thassaraptor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Harsurfir Overseer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%20Overseer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lévy Paths",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Lévy%20Paths.jpg"
+	        }
+	    },
+	    {
+	        "name": "Usurp the Quintarchy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Usurp%20the%20Quintarchy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Into Primal Archives",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Into%20Primal%20Archives.jpg"
+	        }
+	    },
+	    {
+	        "name": "Optimise",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Optimise.jpg"
+	        }
+	    },
+	    {
+	        "name": "Marching Cubes",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Marching%20Cubes.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rastira Mauler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Mauler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Irticull, Shadow Sultan",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}{G}",
+	        "type": "Legendary Creature — Spirit Demigod ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Irticull%2c%20Shadow%20Sultan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Graphical Fidelity",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Graphical%20Fidelity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tyrannoscorpius Rex",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}{G}",
+	        "type": "Creature — Scorpion ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Tyrannoscorpius%20Rex.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bitrot, Nilshroud Parasite",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Legendary Planeswalker — Bitrot ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Bitrot%2c%20Nilshroud%20Parasite.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Metaball",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Legendary Creature — Orb Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/The%20Metaball.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fertile Progengon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Fractal Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Fertile%20Progengon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deified Dicraeosaur",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Deified%20Dicraeosaur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prawth's Ultimatum",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prawth%27s%20Ultimatum.jpg"
+	        }
+	    },
+	    {
+	        "name": "Backwards Companion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Backwards%20Companion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Novel Perspectives",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Novel%20Perspectives.jpg"
+	        }
+	    },
+	    {
+	        "name": "Felygon Skyswarm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Dinosaur Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Skyswarm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dynotopic Stampede",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Dynotopic%20Stampede.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cadix, the Raze-Rager",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Artifact Creature — Zombie Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Cadix%2c%20the%20Raze-Rager.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quintarchal Ascension",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchal%20Ascension.jpg"
+	        }
+	    },
+	    {
+	        "name": "Calf of the Restored Age",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}",
+	        "type": "Creature — Elephant ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Calf%20of%20the%20Restored%20Age.jpg"
+	        }
+	    },
+	    {
+	        "name": "Buffer Overflow",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Buffer%20Overflow.jpg"
+	        }
+	    },
+	    {
+	        "name": "Duplicate Specialty",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Duplicate%20Specialty.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corrupted Protocol",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Corrupted%20Protocol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Discover the Obsolete",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Discover%20the%20Obsolete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Suffocating Pollution",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Suffocating%20Pollution.jpg"
+	        }
+	    },
+	    {
+	        "name": "Replica of Haxilir",
+	        "rarity": "rare",
+	        "mana_cost": "{14}",
+	        "type": "Artifact Creature — Zombie Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Replica%20of%20Haxilir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rogue Process",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{C}",
+	        "type": "Artifact Creature — Zombie Assassin ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rogue%20Process.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rhystic Palace",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rhystic%20Palace.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ancient Activator",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Ancient%20Activator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deprecated Dump",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Deprecated%20Dump.jpg"
+	        }
+	    },
+	    {
+	        "name": "Conquex, Broken Mandate",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Conquex%2c%20Broken%20Mandate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hallway Thomasson",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Hallway%20Thomasson.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Apex",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Dinosaur Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Apex.jpg"
+	        }
+	    },
+	    {
+	        "name": "Guzzle Giblets",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Guzzle%20Giblets.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deprecated Harvest",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Deprecated%20Harvest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Albedo Arbalest",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant — Shader ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Albedo%20Arbalest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Occult Occlusion",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant — Shader ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Occult%20Occlusion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Metallic Mirage",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant — Shader ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Metallic%20Mirage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Roughness Rails",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant — Shader ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Roughness%20Rails.jpg"
+	        }
+	    },
+	    {
+	        "name": "Subsurface Scattering",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant — Shader ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Subsurface%20Scattering.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voracious Mollusk",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Snail ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Voracious%20Mollusk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flagstones of the Broken Age",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Flagstones%20of%20the%20Broken%20Age.jpg"
+	        }
+	    },
+	    {
+	        "name": "Memory Spike",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Memory%20Spike.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nilshroud Mockery",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Mockery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grim Tutor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Grim%20Tutor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crashing Rot",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Crashing%20Rot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rapid Terraforming",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Rapid%20Terraforming.jpg"
+	        }
+	    },
+	    {
+	        "name": "Relentless Consumption",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Relentless%20Consumption.jpg"
+	        }
+	    },
+	    {
+	        "name": "Friends Unfettered",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Friends%20Unfettered.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shard of Conquex",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Texture ",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Shard%20of%20Conquex.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prefabrication",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Prefabrication.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ray Tracing",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Mymiredon/Primivir/main/Ray%20Tracing.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		30 Prophetic Prism
+		30 Prepackaged Assembly
+		30 Sunbound Swarm
+		30 Overclocked Dragon
+		30 Geometric Singularity
+		30 Territorial Primarch
+		30 Slipstream Enigma
+		30 Parallaxadaisical Dengon
+		30 The Downscaling
+		30 Superficial Salvation
+		30 Cache Dredger
+		30 A Populated World
+		30 Extinct Rebel
+		30 Prawth's Research Station
+		30 Symmetric Construction
+		30 Uverngon, Quintarch Usurper
+		30 Nurbs' Familiar
+		30 Draw Distance
+		30 Waypoint of Nil
+		30 Anivir's Warning
+		30 Nilshroud Storm
+		30 Resplendent Dawn
+		30 Erfex Regenerator
+		30 Edravir, Last of the Obsolete
+		30 Geometry Nodes
+		30 Erfex, Rotting Realm
+		30 Rastira, the World Moat
+		30 Harsurfir, Godly Quarry
+		30 Urwrapir, Restored Wilderness
+		30 Domination Center
+		30 Felygon, Utopian Sprawl
+		30 Self-Intersector
+		30 Self-Assembling Phoenix
+		30 Shoal Summoner
+		30 Withered Scorngon
+		30 Pot of Wishes
+		30 Mesh Warper
+		30 Unlock the Quarternion
+		30 Nurbs, the Wild King
+		30 Kinema, Queen Eternal
+		30 Cruelean, Ruler of None
+		30 Abandonmare
+		30 Skirweigh, Abyssal Tsar
+		30 Systems Collapse
+		30 Middleware Distributor
+		30 Quintarchal Pariah
+		30 Irticull's Vanguard
+		30 Ecocide
+		30 Edravir's Lynchpin
+		30 Urban Majesty
+		30 Lord of the World Moat
+		30 Amphibious Emulator
+		30 Luddite Infiltrator
+		30 Abstraction Breaker
+		30 Flesh Centrifuge
+		30 Thassaraptor
+		30 Harsurfir Overseer
+		30 Usurp the Quintarchy
+		30 Into Primal Archives
+		30 Optimise
+		30 Irticull, Shadow Sultan
+		30 Graphical Fidelity
+		30 Tyrannoscorpius Rex
+		30 The Metaball
+		30 Deified Dicraeosaur
+		30 Prawth's Ultimatum
+		30 Dynotopic Stampede
+		30 Cadix, the Raze-Rager
+		30 Quintarchal Ascension
+		30 Calf of the Restored Age
+		30 Buffer Overflow
+		30 Duplicate Specialty
+		30 Corrupted Protocol
+		30 Suffocating Pollution
+		30 Replica of Haxilir
+		30 Rogue Process
+		30 Rhystic Palace
+		30 Ancient Activator
+		30 Conquex, Broken Mandate
+		30 Deprecated Harvest
+		30 Voracious Mollusk
+		30 Flagstones of the Broken Age
+		30 Memory Spike
+		30 Grim Tutor
+		30 Crashing Rot
+		30 Rapid Terraforming
+		30 Relentless Consumption
+		30 Friends Unfettered
+		8 Epoch Ending
+		8 Anivir, Forgotten Savior
+		8 Mana Void
+		8 Armament of Armageddon
+		8 Escape the Nilshroud
+		8 Custodian of Reality
+		8 Prawth, Planar Decimator
+		8 Apocalypse Engine
+		8 Prefabricated Pryntir
+		8 Sparrow Spires
+		8 Render Time
+		8 Empty Scene
+		8 Lévy Paths
+		8 Marching Cubes
+		8 Bitrot, Nilshroud Parasite
+		8 Discover the Obsolete
+		8 Hallway Thomasson
+		8 Nilshroud Apex
+		8 Albedo Arbalest
+		8 Occult Occlusion
+		8 Metallic Mirage
+		8 Roughness Rails
+		8 Subsurface Scattering
+		8 Nilshroud Mockery
+		8 Ray Tracing
+	[UncommonSlot(3)]
+		30 Disregarded Project
+		30 Gathering Olorosaurs
+		30 Abstraction Peeler
+		30 Awakened Marauder
+		30 Swiftfoot Striker
+		30 Cubic Flames
+		30 Virgin Media
+		30 Polystone Quarry
+		30 Blazefoxes of Moz
+		30 Sacred Signs
+		30 Felygon Sentinel
+		30 Imperial Excommunicator
+		30 Revitalised Cryptid
+		30 Stick Retriever
+		30 Nilshroud Predator
+		30 Urwrapir Matriarch
+		30 Uverngon's Messenger
+		30 Rastira Depths Trawler
+		30 Slumbering Dreadblade
+		30 Nightmarish Terrain
+		30 Savage Pike
+		30 Defragment
+		30 Obsolete Renaissance
+		30 Burn Barren
+		30 Settle Inhospitable Lands
+		30 Urwrapir Explorations
+		30 Friend Collector
+		30 Memory Hole
+		30 Boundary Break
+		30 Recursive Steppe
+		30 Felygon Reclaimer
+		30 Dread Discovery
+		30 Null Terminator
+		30 Irticull's Crypt
+		30 Erfex Summons
+		30 Boolean Lake
+		30 Obfuscated Pier
+		30 Origin Point
+		30 Garden of Nurbs
+		30 Wrecking Rover
+		30 Blazing Devastatasaur
+		30 Blazing Insetir
+		30 Colossal Giraffosaurs
+		30 Terror of Harsurfir
+		30 Spawn Volcano
+		30 Chromatic Channel
+		30 Heart of Harsurfir
+		30 Subsurface Spawning
+		30 The Latest Trends
+		30 Senescence Vessel
+		30 Guardian of Erfex Fens
+		30 Asset Export
+		30 Melodic Unwrapper
+		30 Mirrortusk
+		30 Rastira Trawler
+		30 Rastira Reconstructor
+		30 Productive Throng
+		30 Malevolent Beseecher
+		30 Erfex Revenant
+		30 Hierarch of Expiration
+		30 Hatebloom Titangon
+		30 Ego Eroder
+		30 Cruel Condor
+		30 Oblivion Zealot
+		30 Pattern Processing
+		30 Advocate of Heresy
+		30 Nilshroud Traversal
+		30 Violator of Thermodynamics
+		30 Hierarch of Exultation
+		30 Serrated Angel
+		30 Scavenged Technology
+		30 Tithing Protocol
+		30 Erfex Reclaimer
+		30 Maturing Ankylosaur
+		30 Urwrapir Warden
+		30 Sifter Wurm
+		30 Lost in Geometry
+		30 Reject Input
+		30 Cruelean's Enforcer
+		30 Cultivator's Caravan
+		30 Hyperbolic Jumper
+		30 Procedural Generation
+		30 Pool of Becoming
+		30 Turbulence Algorithm
+		30 Quintarchs' Decree
+		30 Rastira Mauler
+		30 Fertile Progengon
+		30 Backwards Companion
+		30 Novel Perspectives
+		30 Deprecated Dump
+		30 Guzzle Giblets
+		30 Shard of Conquex
+		30 Prefabrication
+	[CommonSlot(10)]
+		30 Gift of Wilderness
+		30 Heirloom of the Obsolete
+		30 Recovered Guardian
+		30 Height Map
+		30 Extruded Skyscraper
+		30 Nilshroud Absorption
+		30 Sun Pouncer
+		30 Tatu-Peba
+		30 Graceful Coelurosaur
+		30 Downscaled Matrongon
+		30 Harsurfir Scavenger
+		30 Hellish Inferngon
+		30 Maeverano Herdmate
+		30 Stonehewn Colossus
+		30 Coordinated Hunt
+		30 Spoils of Scarcity
+		30 Nilshroud Conflagration
+		30 Overharvest
+		30 Into the Mines
+		30 Tragedy of the Commons
+		30 Render Flesh
+		30 Bevelled Cliffs
+		30 Tesseractapillar
+		30 Charging Argosaur
+		30 Lush Stamengon
+		30 Humongous Detritivore
+		30 Herald of the Restored Age
+		30 Apex of Antiquity
+		30 Crude Onslaught
+		30 Primal Power
+		30 Dawngon Infusion
+		30 Burrow Deep
+		30 Overlaid Bridge
+		30 Plummeting Smash
+		30 Mesh Rot
+		30 Specular Shack
+		30 Laggymorph
+		30 Emerging Wildlife
+		30 Elder Gigantops
+		30 Stampeding Goliath
+		30 Orchard Vixen
+		30 Horizon Collector
+		30 Witness of the Obsolete
+		30 Asset Manager
+		30 Chronicler of the Obsolete
+		30 Consecrated Farmland
+		30 Tainted Bureaucrat
+		30 Desperate Pathfinding
+		30 Ecocidal Tracker
+		30 Energy Tax
+		30 Felygon Scientist
+		30 Harsh Sentence
+		30 Hierarchic Extortion
+		30 Erfex Cartographer
+		30 Quintarchal Bodyguard
+		30 Shelter from the Elements
+		30 Harsurfir Ferrier
+		30 Trapped in the Nilshroud
+		30 Warden of Inefficiencies
+		30 Saturated Savannah
+		30 Occluded Bog
+		30 Delete
+		30 Kinematic Constrictor
+		30 Nocturngon Infusion
+		30 Sentence to Oblivion
+		30 Backface Culling
+		30 Bleak Return
+		30 Bog Snapper
+		30 Conscripted Serpengon
+		30 Ngonification
+		30 Witness to Nil
+		30 Despawn
+		30 Nilshroud Mulcher
+		30 Soul Taker
+		30 Rastira Scavenger
+		30 Planetary Harvester
+		30 Defiled Revengon
+		30 Feasting Ruingon
+		30 Erfex Cemetery
+		30 Rasteriser
+		30 Normal Mapper
+		30 Leaping Carnosaur
+		30 Urwrapir Looters
+		30 Boundless Ocean
+		30 Buffer Zone
+		30 Extrude Wisdom
+		30 Manaqueduct
+		30 Migrating Songon
+		30 Packet Loss
+		30 Raving Crab
+		30 Urwrapir Ambusher
+		30 Seafloor Scrounger
+		30 Security Breach
+		30 Obsolete Sentinel
+		30 Squid Squad
+		30 Nurbs' Collector
+		30 Overfisher
+		30 Rastira Fiend
+		30 Tidal Drift
+		30 Submerged Titangill
+		30 Felygon Skyswarm
+	[BasicSlot(1)]
+		1 Island
+		1 Mountain
+		1 Swamp
+		1 Forest
+		1 Plains
+	

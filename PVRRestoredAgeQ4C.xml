@@ -1,0 +1,3317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>PVR</name>
+<longname>Primivir</longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Gift of Wilderness</name>
+ <set picURL="/Gift of Wilderness.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>This spell costs 3 less to cast if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
+Enchant creature
+Enchanted creature gets +3/+2 and has haste.</text>
+</card>
+<card>
+ <name>Disregarded Project</name>
+ <set picURL="/Disregarded Project.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Artifact Creature - Zombie Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Protection from multicolored
+Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying WWW. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Epoch Ending</name>
+ <set picURL="/Epoch Ending.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You gain 6 life. Then if this spell was retopologised, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
+Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying WWWWWW. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Gathering Olorosaurs</name>
+ <set picURL="/Gathering Olorosaurs.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Gathering Olorosaurs enters the battlefield with two +1/+1 counters on it if no mana from land sources were spent to cast it.
+Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying GGG. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Heirloom of the Obsolete</name>
+ <set picURL="/Heirloom of the Obsolete.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Heirloom of the Obsolete enters the battlefield, create a tapped Treasure token.
+Equipped creature gets +2/+0.
+Equip 4</text>
+</card>
+<card>
+ <name>Abstraction Peeler</name>
+ <set picURL="/Abstraction Peeler.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact Creature - Zombie Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a permanent enters the battlefield tapped under your control, untap it and you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Recovered Guardian</name>
+ <set picURL="/Recovered Guardian.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>5</manacost>
+ <type>Artifact Creature - Zombie Soldier </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Retopology 6 (Cast a copy of this from your graveyard by exiling it and paying 6. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Prophetic Prism</name>
+ <set picURL="/Prophetic Prism.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Prophetic Prism enters the battlefield, draw a card.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Height Map</name>
+ <set picURL="/Height Map.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Until end of turn, target permanent gains “T: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Anivir, Forgotten Savior</name>
+ <set picURL="/Anivir, Forgotten Savior.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2GU</manacost>
+ <type>Legendary Planeswalker - Anivir </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>Whenever your complexity is three or greater, put two loyalty counters on Anivir. This ability triggers only once each turn.
+[0]: Until your next turn, another target permanent gains “T: Draw a card.”
+[-3]: Create two 1/1 Fractal Reflection creature tokens with “T: Add G or U.”
+[-8]: Until end of turn, permanents you control gain “T: Each opponent mills six cards.”
+</text>
+</card>
+<card>
+ <name>Extruded Skyscraper</name>
+ <set picURL="/Extruded Skyscraper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T: Add one mana of any color.
+3, T, Sacrifice Extruded Skyscraper: You get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Nilshroud Absorption</name>
+ <set picURL="/Nilshroud Absorption.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter up to one target spell unless its controller pays X.
+Draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>Awakened Marauder</name>
+ <set picURL="/Awakened Marauder.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Artifact Creature - Zombie Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever another artifact enters the battlefield under your control, you may put a +1/+1 counter on Awakened Marauder. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Prepackaged Assembly</name>
+ <set picURL="/Prepackaged Assembly.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield.
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Sun Pouncer</name>
+ <set picURL="/Sun Pouncer.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Dinosaur Crocodile </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Sun Pouncer deals 1 damage to each opponent.
+Whenever your complexity is three or greater, untap Sun Pouncer. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Tatu-Peba</name>
+ <set picURL="/Tatu-Peba.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Pangolin </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Tatu-Peba attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, it gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Graceful Coelurosaur</name>
+ <set picURL="/Graceful Coelurosaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Graceful Coelurosaur gets +2/+2 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Downscaled Matrongon</name>
+ <set picURL="/Downscaled Matrongon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Fractal Spirit </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Creature tokens you control have menace.
+Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying 2RR. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Harsurfir Scavenger</name>
+ <set picURL="/Harsurfir Scavenger.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Dinosaur Dog </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Harsurfir Scavenger enters the battlefield, you may sacrifice a land or exile a land card from your graveyard. If you do, it gains haste until end of turn and you get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Hellish Inferngon</name>
+ <set picURL="/Hellish Inferngon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Fractal Horror </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Hellish Inferngon enters the battlefield, add three mana of any one color and you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Swiftfoot Striker</name>
+ <set picURL="/Swiftfoot Striker.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Cat </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice a land or exile a land card from your graveyard: Swiftfoot Striker gains your choice of haste or menace until end of turn. </text>
+</card>
+<card>
+ <name>Maeverano Herdmate</name>
+ <set picURL="/Maeverano Herdmate.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Maeverano Herdmate has double strike if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Stonehewn Colossus</name>
+ <set picURL="/Stonehewn Colossus.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <type>Creature - Elemental </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Stonehewn Colossus enters the battlefield, you may sacrifice a land or exile a land card from your graveyard. If you do, Stonehewn Colossus deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Coordinated Hunt</name>
+ <set picURL="/Coordinated Hunt.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Coordinated Hunt deals 3 damage to any target. If your complexity is three or greater, Coordinated Hunt deals 4 damage to that target instead. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Spoils of Scarcity</name>
+ <set picURL="/Spoils of Scarcity.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose two—
+• Spoils of Scarcity deals 1 damage to any target.
+• Target player creates a tapped Treasure token.
+• Target player gets V/W. (They can spend V to cast vertex spells.)</text>
+</card>
+<card>
+ <name>Nilshroud Conflagration</name>
+ <set picURL="/Nilshroud Conflagration.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Nilshroud Conflagration deals 5 damage to target creature.
+You may sacrifice a land. If you do, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Overharvest</name>
+ <set picURL="/Overharvest.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Add two mana in any combination of colors.
+If this is the first spell you’ve cast this turn, scry 1, then draw a card.</text>
+</card>
+<card>
+ <name>Into the Mines</name>
+ <set picURL="/Into the Mines.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Discard a card, then draw two cards.
+You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Tragedy of the Commons</name>
+ <set picURL="/Tragedy of the Commons.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or land.
+Creatures you control get +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Render Flesh</name>
+ <set picURL="/Render Flesh.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Target creature gets +3/+3 until end of turn.
+• You get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Bevelled Cliffs</name>
+ <set picURL="/Bevelled Cliffs.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Bevelled Cliffs enters the battlefield tapped.
+When Bevelled Cliffs enters the battlefield, up to one target creature gains trample and haste until end of turn.
+T: Add R.</text>
+</card>
+<card>
+ <name>Cubic Flames</name>
+ <set picURL="/Cubic Flames.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, whenever a creature dies, you get V. (Spend V to cast copies of Vertex spells.)
+Cubic Flames deals 2 damage to each creature.</text>
+</card>
+<card>
+ <name>Tesseractapillar</name>
+ <set picURL="/Tesseractapillar.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you cast an Aura or Equipment spell, you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Charging Argosaur</name>
+ <set picURL="/Charging Argosaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever your complexity is three or greater, put a +1/+1 counter on Charging Argosaur. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Lush Stamengon</name>
+ <set picURL="/Lush Stamengon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Fractal Plant </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Lush Stamengon dies, you get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Humongous Detritivore</name>
+ <set picURL="/Humongous Detritivore.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Humongous Detritivore enters the battlefield, mill three cards.
+Humongous Detritivore gets +2/+1 if there are eight or more cards in your graveyard.</text>
+</card>
+<card>
+ <name>Herald of the Restored Age</name>
+ <set picURL="/Herald of the Restored Age.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Elk </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance</text>
+</card>
+<card>
+ <name>Apex of Antiquity</name>
+ <set picURL="/Apex of Antiquity.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Apex of Antiquity enters the battlefield, put a +1/+1 counter on another target Dinosaur you control.</text>
+</card>
+<card>
+ <name>Crude Onslaught</name>
+ <set picURL="/Crude Onslaught.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature you control
+When Crude Onslaught enters the battlefield, enchanted creature fights up to one target creature you don’t control.
+Enchanted creature has trample.</text>
+</card>
+<card>
+ <name>Primal Power</name>
+ <set picURL="/Primal Power.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+0.
+You may cast Primal Power from your graveyard if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Dawngon Infusion</name>
+ <set picURL="/Dawngon Infusion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap up to one target creature and put a +1/+1 counter on it.
+You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Burrow Deep</name>
+ <set picURL="/Burrow Deep.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target card from your graveyard to your hand.
+Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying 1GG. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Overlaid Bridge</name>
+ <set picURL="/Overlaid Bridge.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Whenever enchanted land is tapped for mana, choose a color among cards in your graveyard. Add one mana of that color.</text>
+</card>
+<card>
+ <name>Plummeting Smash</name>
+ <set picURL="/Plummeting Smash.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Destroy target artifact.
+• Destroy target creature with flying.
+• You get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Mesh Rot</name>
+ <set picURL="/Mesh Rot.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Mesh Rot enters the battlefield, exile up to one target enchantment or card in a graveyard.
+1, Sacrifice Mesh Rot: Mill two cards, then draw a card.</text>
+</card>
+<card>
+ <name>Specular Shack</name>
+ <set picURL="/Specular Shack.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Specular Shack enters the battlefield tapped.
+When Specular Shack enters the battlefield, look at the top two cards of your library, put them back in any order, then mill a card.
+T: Add G.</text>
+</card>
+<card>
+ <name>Virgin Media</name>
+ <set picURL="/Virgin Media.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to two basic land cards and/or Texture cards, put them onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Laggymorph</name>
+ <set picURL="/Laggymorph.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Rabbit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Polystone Quarry</name>
+ <set picURL="/Polystone Quarry.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Polystone Quarry enters the battlefield, you get V/U. (Spend V to cast copies of Vertex spells.)
+The first Vertex spell you cast each turn has “Add two mana in any combination of colors.”</text>
+</card>
+<card>
+ <name>Blazefoxes of Moz</name>
+ <set picURL="/Blazefoxes of Moz.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Fox </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, menace
+Blazefoxes of Moz gets +2/+0 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Sunbound Swarm</name>
+ <set picURL="/Sunbound Swarm.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1RW</manacost>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Flying, double strike, vigilance, trample, haste, protection from tokens and from copies of spells</text>
+</card>
+<card>
+ <name>Overclocked Dragon</name>
+ <set picURL="/Overclocked Dragon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3RR // V/BV/GR</manacost>
+ <type>Creature - Dragon  // Vertex Sorcery</type>
+ <pt>4/4</pt>
+ <tablerow>3</tablerow>
+ <text>Flying
+Whenever Overclocked Dragon attacks, you get V/W. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+Melt deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Geometric Singularity</name>
+ <set picURL="/Geometric Singularity.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>XR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Geometric Singularity deals X damage to any target.
+Retopology XR (Cast a copy of this from your graveyard by exiling it and paying XR. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Mana Void</name>
+ <set picURL="/Mana Void.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>A player losing unspent mana causes that player to lose that much life.
+You may tap lands you don’t control for mana. Activate abilities this way only as a sorcery.</text>
+</card>
+<card>
+ <name>Emerging Wildlife</name>
+ <set picURL="/Emerging Wildlife.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Emerging Wildlife enters the battlefield, put a +1/+1 counter on target creature.
+Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying 2GG. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Elder Gigantops</name>
+ <set picURL="/Elder Gigantops.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Ape </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Elder Gigantops gets +2/+2 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Stampeding Goliath</name>
+ <set picURL="/Stampeding Goliath.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <type>Creature - Elephant </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Stampeding Goliath enters the battlefield, you get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Territorial Primarch</name>
+ <set picURL="/Territorial Primarch.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Cat </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>You may play lands during your turn at any time you can cast an instant.
+Whenever you play a land, scry 2 if it’s your upkeep, or put a +1/+1 counter on Territorial Primarch if it’s a combat phase. Otherwise, you gain 2 life.</text>
+</card>
+<card>
+ <name>Slipstream Enigma</name>
+ <set picURL="/Slipstream Enigma.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>U // V/WV/GU</manacost>
+ <type>Creature - Leviathan  // Vertex Instant</type>
+ <pt>5/5</pt>
+ <tablerow>3</tablerow>
+ <text>Slipstream Enigma can’t attack or block.
+Whenever you cast a noncreature spell from your hand, you get V. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+Target creature loses all abilities until end of turn.</text>
+</card>
+<card>
+ <name>Armament of Armageddon</name>
+ <set picURL="/Armament of Armageddon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Artifact Creature - Zombie Angel </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, first strike, vigilance
+At the beginning of your upkeep, if Armament of Armageddon was cast from your hand during your last turn and it’s still on the battlefield, destroy all lands.</text>
+</card>
+<card>
+ <name>Escape the Nilshroud</name>
+ <set picURL="/Escape the Nilshroud.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a nonland card, exile it, then shuffle. For as long as that card remains exiled, you may cast that card, and at least one mana from a source that shares a card type with it must be used to cast that spell.</text>
+</card>
+<card>
+ <name>Sacred Signs</name>
+ <set picURL="/Sacred Signs.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top two cards of your library and choose one of them. You may play that card this turn.
+1, Exile Sacred Signs from your graveyard: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Felygon Sentinel</name>
+ <set picURL="/Felygon Sentinel.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Monkey </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Felygon Sentinel enters the battlefield, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)
+Activated abilities of nonland permanents cost 1 more to activate.</text>
+</card>
+<card>
+ <name>Parallaxadaisical Dengon</name>
+ <set picURL="/Parallaxadaisical Dengon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Fractal Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>You may look at the top card of your library at any time.
+Sacrifice a creature: Mill a card. If the milled card is a land card, you may put it onto the battlefield.
+Sacrifice a land: Mill a card. If the milled card is a creature card, you may cast it.</text>
+</card>
+<card>
+ <name>Orchard Vixen</name>
+ <set picURL="/Orchard Vixen.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Fox </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice Orchard Vixen, discard a card: Draw a card.
+Retopology RR (Cast a copy of this from your graveyard by exiling it and paying RR. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>The Downscaling</name>
+ <set picURL="/The Downscaling.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When The Downscaling enters the battlefield, for each player, you choose from among the permanents that player controls another enchantment, an artifact, a creature, a planeswalker, and a land. Exile those permanents until The Downscaling leaves the battlefield.</text>
+</card>
+<card>
+ <name>Vertex Reminder</name>
+ <set picURL="/Vertex Reminder.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost></manacost>
+ <type> </type>
+ <tablerow>1</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Custodian of Reality</name>
+ <set picURL="/Custodian of Reality.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>WUB</manacost>
+ <type>Artifact Creature - Zombie Angel </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+When Custodian of Reality enters the battlefield, you may reveal your library and exile each land card revealed this way face down. If you do, shuffle.</text>
+</card>
+<card>
+ <name>Superficial Salvation</name>
+ <set picURL="/Superficial Salvation.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to four target creature cards with total mana value 5 or less from your graveyard to the battlefield tapped. As they enter the battlefield this way, they gain bake until end of turn. (When this enters, up to one other target permanent gains its abilities until end of turn.)</text>
+</card>
+<card>
+ <name>Prawth, Planar Decimator</name>
+ <set picURL="/Prawth, Planar Decimator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>3UB</manacost>
+ <type>Legendary Planeswalker - Prawth </type>
+ <loyalty>6</loyalty>
+ <tablerow>1</tablerow>
+ <text>You may remove loyalty counters from Prawth rather than pay that amount of V.
+[0]: Target player discards a card. Put X loyalty counters on Prawth, where X is that card’s mana value.
+[-1]: Create a 2/2 black Horror creature token with prowess.
+</text>
+</card>
+<card>
+ <name>Cache Dredger</name>
+ <set picURL="/Cache Dredger.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Skeleton Warlock </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Exile target card from a graveyard. If you do, add one mana of any color. Then if there are four or more card types among cards exiled with Cache Dredger, each opponent loses 2 life and you gain 2 life.</text>
+</card>
+<card>
+ <name>Horizon Collector</name>
+ <set picURL="/Horizon Collector.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Zombie Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Horizon Collector has all activated and triggered abilities of each land you control.</text>
+</card>
+<card>
+ <name>A Populated World</name>
+ <set picURL="/A Populated World.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Nonland permanent cards in your graveyard with mana value 3 or greater have retopology. The retopology cost is an amount of G equal to its mana value. (Cast a copy of it by exiling it from your graveyard and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Imperial Excommunicator</name>
+ <set picURL="/Imperial Excommunicator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Artifact Creature - Zombie Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Sacrifice a nonartifact permanent, Exile an artifact card from your graveyard and pay its mana cost: Create a token that’s a copy of that artifact. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Revitalised Cryptid</name>
+ <set picURL="/Revitalised Cryptid.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1GU</manacost>
+ <type>Creature - Beast </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Revitalised Cryptid enters the battlefield, for each card type among sources of mana spent to cast it, you may draw a card or put two +1/+1 counters on it.</text>
+</card>
+<card>
+ <name>Stick Retriever</name>
+ <set picURL="/Stick Retriever.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>4BG</manacost>
+ <type>Creature - Monkey </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Stick Retriever enters the battlefield, create a 1/1 white Human creature token for each creature card in your graveyard.
+Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Nilshroud Predator</name>
+ <set picURL="/Nilshroud Predator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Creature - Dinosaur Horror </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Nilshroud Predator or another Horror you control attacks, you may pay 1. If you do, that Horror gains double strike until end of turn.</text>
+</card>
+<card>
+ <name>Urwrapir Matriarch</name>
+ <set picURL="/Urwrapir Matriarch.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>4RG</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Other Dinosaurs you control get +1/+1.
+Whenever your complexity is three or greater, create a 3/3 green Dinosaur creature token. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Uverngon's Messenger</name>
+ <set picURL="/Uverngon's Messenger.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Creature - Bird </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Uverngon’s Messenger gets +1/+1 and has hexproof if a spell or ability caused you to draw or put a card into your hand this turn.</text>
+</card>
+<card>
+ <name>Rastira Depths Trawler</name>
+ <set picURL="/Rastira Depths Trawler.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1UR</manacost>
+ <type>Creature - Shark </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever your complexity is five or greater, draw two cards. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Extinct Rebel</name>
+ <set picURL="/Extinct Rebel.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Creature - Human Citizen </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Extinct Rebel attacks, return up to one target permanent card with mana value 2 or less from your graveyard to the battlefield, except it’s not a creature. If you do, exile it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Slumbering Dreadblade</name>
+ <set picURL="/Slumbering Dreadblade.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+This permanent is a 3/3 Construct creature if an artifact entered the battlefield this turn.</text>
+</card>
+<card>
+ <name>Nightmarish Terrain</name>
+ <set picURL="/Nightmarish Terrain.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Nightmarish Terrain enters the battlefield, you get V/B. (Spend V to cast copies of Vertex spells.)
+Whenever a creature token enters the battlefield under your control, it deals damage equal to its power to each opponent.</text>
+</card>
+<card>
+ <name>Savage Pike</name>
+ <set picURL="/Savage Pike.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>RG</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+2.
+Equipped creature gets an additional +3/+3 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
+Equip 2, T</text>
+</card>
+<card>
+ <name>Prawth's Research Station</name>
+ <set picURL="/Prawth's Research Station.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Other nonland permanents you control have bake. (When that permanent enters, up to one other target permanent gains its abilities until end of turn.)</text>
+</card>
+<card>
+ <name>Symmetric Construction</name>
+ <set picURL="/Symmetric Construction.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2UR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a noncreature spell, if your complexity is twice its mana value or greater, copy that spell. You may choose new targets for it. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Defragment</name>
+ <set picURL="/Defragment.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>4WB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to two artifact cards from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Obsolete Renaissance</name>
+ <set picURL="/Obsolete Renaissance.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+When Obsolete Renaissance enters the battlefield, draw a card.
+You may cast Aura spells from your graveyard if they target enchanted permanent.</text>
+</card>
+<card>
+ <name>Burn Barren</name>
+ <set picURL="/Burn Barren.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1RW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a land.
+Burn Barren deals 4 damage to any target and you gain 4 life.</text>
+</card>
+<card>
+ <name>Settle Inhospitable Lands</name>
+ <set picURL="/Settle Inhospitable Lands.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>T: Create a 1/1 white Human creature token. Activate only if a spell or ability drew or put a card into your hand this turn.
+3WU: Return target permanent you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Urwrapir Explorations</name>
+ <set picURL="/Urwrapir Explorations.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1GU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards. You may play an additional land this turn.
+Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying 1G/UG/UG/UG/U. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Friend Collector</name>
+ <set picURL="/Friend Collector.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2GW</manacost>
+ <type>Creature - Bird </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an Aura or Equipment spell, draw a card.</text>
+</card>
+<card>
+ <name>Witness of the Obsolete</name>
+ <set picURL="/Witness of the Obsolete.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Unicorn </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Witness of the Obsolete has lifelink if you control an Aura or an Equipment.</text>
+</card>
+<card>
+ <name>Asset Manager</name>
+ <set picURL="/Asset Manager.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Artifact Creature - Zombie Scout </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Asset Manager enters the battlefield, create a 1/1 white Human creature token.
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Chronicler of the Obsolete</name>
+ <set picURL="/Chronicler of the Obsolete.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Mystic </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Chronicler of the Obsolete enters the battlefield, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Consecrated Farmland</name>
+ <set picURL="/Consecrated Farmland.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+When Consecrated Farmland enters the battlefield, create two 1/1 white Human creature tokens.
+Enchanted permanent has ward 2.</text>
+</card>
+<card>
+ <name>Tainted Bureaucrat</name>
+ <set picURL="/Tainted Bureaucrat.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Advisor </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Tainted Bureaucrat attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, it gets +1/+1 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Desperate Pathfinding</name>
+ <set picURL="/Desperate Pathfinding.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+2.
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Ecocidal Tracker</name>
+ <set picURL="/Ecocidal Tracker.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Zombie Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Creatures can’t block this permanent unless their controller pays 1 for each of those creatures. </text>
+</card>
+<card>
+ <name>Energy Tax</name>
+ <set picURL="/Energy Tax.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 1.</text>
+</card>
+<card>
+ <name>Felygon Scientist</name>
+ <set picURL="/Felygon Scientist.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever a spell or ability draws or puts a card into your hand, you gain 1 life.</text>
+</card>
+<card>
+ <name>Harsh Sentence</name>
+ <set picURL="/Harsh Sentence.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target tapped creature.</text>
+</card>
+<card>
+ <name>Hierarchic Extortion</name>
+ <set picURL="/Hierarchic Extortion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Destroy target artifact or enchantment.
+• You get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Erfex Cartographer</name>
+ <set picURL="/Erfex Cartographer.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Pilot </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Erfex Cartographer enters the battlefield, you may discard a card. If you do, search your library for a basic land card or a Texture card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Quintarchal Bodyguard</name>
+ <set picURL="/Quintarchal Bodyguard.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Artifact Creature - Zombie Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+This permanent has double strike if it’s attacking.</text>
+</card>
+<card>
+ <name>Shelter from the Elements</name>
+ <set picURL="/Shelter from the Elements.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose target card in your graveyard that was put there from the battlefield this turn. If it isn’t a land card with no mana abilities, return it to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Harsurfir Ferrier</name>
+ <set picURL="/Harsurfir Ferrier.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Harsurfir Ferrier enters the battlefield, you may sacrifice a land. If you do, draw a card and you may play an additional land this turn.</text>
+</card>
+<card>
+ <name>Trapped in the Nilshroud</name>
+ <set picURL="/Trapped in the Nilshroud.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target permanent.
+You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Warden of Inefficiencies</name>
+ <set picURL="/Warden of Inefficiencies.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Artifact Creature - Zombie Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+1, T: Tap target creature with mana value 4 or less.</text>
+</card>
+<card>
+ <name>Saturated Savannah</name>
+ <set picURL="/Saturated Savannah.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Saturated Savannah enters the battlefield tapped.
+When Saturated Savannah enters the battlefield, put a +1/+1 counter on up to one target creature.
+T: Add W.</text>
+</card>
+<card>
+ <name>Memory Hole</name>
+ <set picURL="/Memory Hole.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell if you have equal or greater complexity than its controller. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Occluded Bog</name>
+ <set picURL="/Occluded Bog.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Occluded Bog enters the battlefield tapped.
+When Occluded Bog enters the battlefield, exile up to one target card from a graveyard.
+T: Add B.</text>
+</card>
+<card>
+ <name>Delete</name>
+ <set picURL="/Delete.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with power or toughness 2 or less.</text>
+</card>
+<card>
+ <name>Kinematic Constrictor</name>
+ <set picURL="/Kinematic Constrictor.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Snake </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Kinematic Constrictor dies, put a +1/+1 counter on up to one target artifact.</text>
+</card>
+<card>
+ <name>Nocturngon Infusion</name>
+ <set picURL="/Nocturngon Infusion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Up to one target creature gains lifelink and deathtouch until end of turn. 
+You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Sentence to Oblivion</name>
+ <set picURL="/Sentence to Oblivion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a noncreature permanent.
+Exile target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Backface Culling</name>
+ <set picURL="/Backface Culling.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Sacrifice this permanent: Draw a card.</text>
+</card>
+<card>
+ <name>Bleak Return</name>
+ <set picURL="/Bleak Return.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying 1BB. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Bog Snapper</name>
+ <set picURL="/Bog Snapper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Bog Snapper dies, up to one target creature gets -1/-1 until end of turn.
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Conscripted Serpengon</name>
+ <set picURL="/Conscripted Serpengon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Fractal Snake </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Conscripted Serpengon attacks, exile up to one target card in a graveyard and you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Ngonification</name>
+ <set picURL="/Ngonification.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand. You may exile a noncreature, nonland card from it. If you don’t, you get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Witness to Nil</name>
+ <set picURL="/Witness to Nil.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact Creature - Zombie Wall </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+2, T: Each player mills two cards. Each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Despawn</name>
+ <set picURL="/Despawn.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Nilshroud Mulcher</name>
+ <set picURL="/Nilshroud Mulcher.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Insect </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Nilshroud Mulcher enters the battlefield or dies, target player mills two cards.</text>
+</card>
+<card>
+ <name>Soul Taker</name>
+ <set picURL="/Soul Taker.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact Creature - Zombie Warlock </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Menace</text>
+</card>
+<card>
+ <name>Rastira Scavenger</name>
+ <set picURL="/Rastira Scavenger.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Dinosaur Bird </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+When this permanent leaves the battlefield, you get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Planetary Harvester</name>
+ <set picURL="/Planetary Harvester.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Artifact Creature - Zombie Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another artifact enters the battlefield under your control, put a +1/+1 counter on Planetary Harvester.</text>
+</card>
+<card>
+ <name>Defiled Revengon</name>
+ <set picURL="/Defiled Revengon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Fractal Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever you spend four or more mana to cast a spell or activate an ability, each opponent loses 2 life.</text>
+</card>
+<card>
+ <name>Feasting Ruingon</name>
+ <set picURL="/Feasting Ruingon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Creature - Fractal Horror </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Whenever this permanent deals damage to a player, target player mills that many cards.</text>
+</card>
+<card>
+ <name>Uverngon, Quintarch Usurper</name>
+ <set picURL="/Uverngon, Quintarch Usurper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Legendary Creature - Fractal Human </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent’s complexity is three or greater, you gain 2 life and draw a card. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
+An opponent with complexity three or greater can’t cast spells or activate abilities.</text>
+</card>
+<card>
+ <name>Nurbs’ Familiar</name>
+ <set picURL="/Nurbs’ Familiar.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lands you control have bake. (When they enter the battlefield, up to one other target permanent gains its abilities until end of turn.)</text>
+</card>
+<card>
+ <name>Boundary Break</name>
+ <set picURL="/Boundary Break.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target permanent you control, then return it to the battlefield tapped under its owner’s control. As it enters the battlefield this way, it gains bake until end of turn. (When it enters, up to one target permanent gains its abilities until end of turn.)</text>
+</card>
+<card>
+ <name>Draw Distance</name>
+ <set picURL="/Draw Distance.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target nonland permanent with mana value 3 or less.
+Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Waypoint of Nil</name>
+ <set picURL="/Waypoint of Nil.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Ward 3
+Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then that player copies each card exiled by Waypoint of Nil. For each copy, the player may cast the copy without paying its mana cost.</text>
+</card>
+<card>
+ <name>Erfex Cemetery</name>
+ <set picURL="/Erfex Cemetery.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Erfex Cemetery enters the battlefield, each opponent sacrifices a creature.
+1, T, Sacrifice Erfex Cemetery: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Rasteriser</name>
+ <set picURL="/Rasteriser.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1, Sacrifice Rasteriser: Choose two—
+• Exile target card from a graveyard.
+• Target player adds one mana of any color.
+• Target player loses three V.
+• Target player draws a card.</text>
+</card>
+<card>
+ <name>Recursive Steppe</name>
+ <set picURL="/Recursive Steppe.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Recursive Steppe enters the battlefield tapped.
+T: Add W.
+1WW, T, Exile Recursive Steppe: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Felygon Reclaimer</name>
+ <set picURL="/Felygon Reclaimer.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2RW</manacost>
+ <type>Creature - Human Mystic </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever Felygon Reclaimer attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Dread Discovery</name>
+ <set picURL="/Dread Discovery.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You draw two cards and you lose 2 life.
+If a library has twenty or fewer cards in it, add BBB.</text>
+</card>
+<card>
+ <name>Apocalypse Engine</name>
+ <set picURL="/Apocalypse Engine.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each player’s upkeep, that player exiles a card in their hand or a permanent they control four times. If they can’t, they lose 100 life.</text>
+</card>
+<card>
+ <name>Anivir's Warning</name>
+ <set picURL="/Anivir's Warning.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a spell from a zone not noted by Anivir’s Warning, note that zone. When you do, Anivir’s Warning deals damage to any target equal to the number of zones noted for it. (The zones are battlefield, hand, graveyard, exile, library, stack, and command.)</text>
+</card>
+<card>
+ <name>Null Terminator</name>
+ <set picURL="/Null Terminator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs X less to cast, where X is your complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
+Exile target creature or planeswalker. Scry 2.</text>
+</card>
+<card>
+ <name>Normal Mapper</name>
+ <set picURL="/Normal Mapper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Elk </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Normal Mapper enters the battlefield, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Irticull's Crypt</name>
+ <set picURL="/Irticull's Crypt.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+T, Sacrifice this permanent: Exile up to two target cards in graveyards.
+1, T, Sacrifice this permanent: Draw a card.</text>
+</card>
+<card>
+ <name>Nilshroud Storm</name>
+ <set picURL="/Nilshroud Storm.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You get nine V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Erfex Summons</name>
+ <set picURL="/Erfex Summons.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1BG</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>You may cast copies of spells from your graveyard with mana value equal to your complexity. As an additional cost to cast spells this way, exile that card from your graveyard.  (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Boolean Lake</name>
+ <set picURL="/Boolean Lake.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Boolean Lake enters the battlefield tapped.
+T: Add U.
+UU, T, Sacrifice Boolean Lake: Search your library for a card with the same name as target permanent or spell, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Obfuscated Pier</name>
+ <set picURL="/Obfuscated Pier.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Obfuscated Pier enters the battlefield tapped.
+T: Add B.
+4BB, T, Sacrifice Obfuscated Pier: Return target creature card from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Origin Point</name>
+ <set picURL="/Origin Point.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Origin Point enters the battlefield tapped.
+T: Add R.
+2RR, T, Sacrifice Origin Point: Any player may have Origin Point deal 4 damage to them. If no one does, you draw two cards.</text>
+</card>
+<card>
+ <name>Garden of Nurbs</name>
+ <set picURL="/Garden of Nurbs.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Garden of Nurbs enters the battlefield tapped.
+T: Add G.
+1GG, T, Sacrifice Garden of Nurbs and a creature: Search your library for a creature card with mana value X or less, where X is the sacrificed creature’s mana value Put that card onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Island</name>
+ <set picURL="/Island.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set picURL="/Mountain.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set picURL="/Swamp.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set picURL="/Forest.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Wrecking Rover</name>
+ <set picURL="/Wrecking Rover.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Artifact Creature - Zombie Scout </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Wrecking Rover enters the battlefield, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
+Wrecking Rover attacks each combat if able.
+When Wrecking Rover leaves the battlefield, sacrifice a land.</text>
+</card>
+<card>
+ <name>Blazing Devastatasaur</name>
+ <set picURL="/Blazing Devastatasaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Blazing Devastatasaur attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, create a tapped Treasure token.</text>
+</card>
+<card>
+ <name>Blazing Insetir</name>
+ <set picURL="/Blazing Insetir.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Hellion </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Blazing Insetir enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Colossal Giraffosaurs</name>
+ <set picURL="/Colossal Giraffosaurs.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>9RR</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>8/7</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs X less to cast, where X is twice your complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Terror of Harsurfir</name>
+ <set picURL="/Terror of Harsurfir.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Dinosaur Horror </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Terror of Harsurfir deals combat damage to a player, you get an amount of V equal to the damage dealt this way. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Spawn Volcano</name>
+ <set picURL="/Spawn Volcano.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target land. 
+Spawn Volcano deals 6 damage to any target.</text>
+</card>
+<card>
+ <name>Chromatic Channel</name>
+ <set picURL="/Chromatic Channel.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose target creature you control. Whenever that creature is dealt damage this turn, it deals that much damage to any other target and you get that much V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Heart of Harsurfir</name>
+ <set picURL="/Heart of Harsurfir.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>3, T: Exile the top card of your library. You may play that card until you exile another card with Heart of Harsurfir. This ability costs 3 less to activate if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Leaping Carnosaur</name>
+ <set picURL="/Leaping Carnosaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>1/5</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Whenever Leaping Carnosaur attacks, it gets +1/+0 until end of turn for each Dinosaur you control.</text>
+</card>
+<card>
+ <name>Subsurface Spawning</name>
+ <set picURL="/Subsurface Spawning.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>XG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 coutners on it.
+Retopology X (Cast a copy of this from your graveyard by exiling it and paying X. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>The Latest Trends</name>
+ <set picURL="/The Latest Trends.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target player mills twice X cards.
+Retopology XU (Cast a copy of this from your graveyard by exiling it and paying XU. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Resplendent Dawn</name>
+ <set picURL="/Resplendent Dawn.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose up to three target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Senescence Vessel</name>
+ <set picURL="/Senescence Vessel.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Whenever this permanent or a nontoken permanent this is attached to leaves the battlefield, create a 2/2 black Horror creature token with prowess.
+Equip 1, T</text>
+</card>
+<card>
+ <name>Prefabricated Pryntir</name>
+ <set picURL="/Prefabricated Pryntir.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>5GGG</manacost>
+ <type>Creature - Fractal Elk </type>
+ <pt>6/7</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+Vigilance, trample
+Spells you cast can’t be countered.
+Whenever a permanent you control becomes the target of a spell, create a token that’s a copy of that permanent.</text>
+</card>
+<card>
+ <name>Erfex Regenerator</name>
+ <set picURL="/Erfex Regenerator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G // V/RV/GG</manacost>
+ <type>Creature - Fox  // Vertex Sorcery</type>
+ <pt>0/3</pt>
+ <tablerow>3</tablerow>
+ <text>Whenever a land enters the battlefield under your control, you get V. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+Untap each permanent you control.</text>
+</card>
+<card>
+ <name>Guardian of Erfex Fens</name>
+ <set picURL="/Guardian of Erfex Fens.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Bear </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>You may have Guardian of Erfex Fens assign it combat damage as though it weren’t blocked.</text>
+</card>
+<card>
+ <name>Asset Export</name>
+ <set picURL="/Asset Export.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw X cards, where X is the amount of mana spent to cast this spell, then discard a card.
+Retopology 1UUUU (Cast a copy of this from your graveyard by exiling it and paying 1UUUU. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Edravir, Last of the Obsolete</name>
+ <set picURL="/Edravir, Last of the Obsolete.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Legendary Artifact Creature - Survivor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever a spell or ability puts a nontoken card into a player’s hand, if that card wasn’t drawn, that player discards a card.</text>
+</card>
+<card>
+ <name>Melodic Unwrapper</name>
+ <set picURL="/Melodic Unwrapper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Creature - Human Bard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Texturewalk (This creature can’t be blocked as long as defending player controls a Texture.)
+Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
+</card>
+<card>
+ <name>Geometry Nodes</name>
+ <set picURL="/Geometry Nodes.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>XGG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library or graveyard for a green creature card with mana value X or less and put it onto the battlefield. If your complexity is three or greater, repeat this process once. If you’ve searched your library this way, shuffle. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Urwrapir Looters</name>
+ <set picURL="/Urwrapir Looters.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+T: Target player draws a card, then discards a card.</text>
+</card>
+<card>
+ <name>Sparrow Spires</name>
+ <set picURL="/Sparrow Spires.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>1, Tap three untapped non-Bird permanents you control: Create a 1/1 blue Fractal Bird creature token with flying and “This creature can’t block.”
+Whenever three or more creatures you control deal combat damage to a player, create a token that’s a copy of one of those creatures.</text>
+</card>
+<card>
+ <name>Mirrortusk</name>
+ <set picURL="/Mirrortusk.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Elephant Shapeshifter </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+U: This permanent becomes a copy of target artifact, creature, enchantment, or land until end of turn, except it still has its name. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Rastira Trawler</name>
+ <set picURL="/Rastira Trawler.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Creature - Human Ranger </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess, vigilance
+Whenever Rastira Trawler attacks, exile target noncreature, nonland card in your graveyard. You may cast a copy of it. It costs 2 less to cast.</text>
+</card>
+<card>
+ <name>Rastira Reconstructor</name>
+ <set picURL="/Rastira Reconstructor.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Artifact Creature - Zombie Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Rastira Reconstructor enters the battlefield, search your library for a card, put that card into your graveyard, then shuffle.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Productive Throng</name>
+ <set picURL="/Productive Throng.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Citizen Nightmare </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Productive Throng attacks, it can’t be blocked this turn unless an opponent pays 1.
+At the beginning of your end step, put a +1/+1 counter on target creature unless an opponent pays 1.</text>
+</card>
+<card>
+ <name>Malevolent Beseecher</name>
+ <set picURL="/Malevolent Beseecher.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact Creature - Zombie Horror </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Deathtouch, lifelink</text>
+</card>
+<card>
+ <name>Erfex Revenant</name>
+ <set picURL="/Erfex Revenant.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Bear </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+T, Sacrifice this permanent: Return target creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Hierarch of Expiration</name>
+ <set picURL="/Hierarch of Expiration.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Artifact Creature - Zombie Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Hierarch of Expiration enters the battlefield, each player sacrifices a creature or planeswalker.
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Hatebloom Titangon</name>
+ <set picURL="/Hatebloom Titangon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Plant Horror </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch, lifelink
+Hatebloom Titangon gets +3/+3 if a library has twenty or fewer cards in it.</text>
+</card>
+<card>
+ <name>Ego Eroder</name>
+ <set picURL="/Ego Eroder.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <type>Artifact Creature - Zombie Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Ego Eroder enters the battlefield, look at target player’s hand. You may choose a noncreature, nonland card from it. Exile that card until Ego Eroder leaves the battlefield.
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Cruel Condor</name>
+ <set picURL="/Cruel Condor.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Bird </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever one or more creatures you control die, each opponent loses 1 life and you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Oblivion Zealot</name>
+ <set picURL="/Oblivion Zealot.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Artifact Creature - Zombie Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Oblivion Zealot enters the battlefield, search your library for up to three basic Plains cards, reveal them, put them into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Pattern Processing</name>
+ <set picURL="/Pattern Processing.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card or a Texture card, reveal it, put it into your hand, then shuffle.
+You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Erfex, Rotting Realm</name>
+ <set picURL="/Erfex, Rotting Realm.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Erfex enters the battlefield tapped.
+T: Add B.
+Whenever you spend four or more mana to cast a spell or activate an ability, put two +1/+1 counters on Erfex. You may have it become a 0/0 Fractal Horror creature until end of turn.</text>
+</card>
+<card>
+ <name>Rastira, the World Moat</name>
+ <set picURL="/Rastira, the World Moat.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>When Rastira, the World Moat enters the battlefield, target player mills three cards.
+2, T: Add UUU. This ability costs 2 less to activate If a library has twenty or fewer cards in it.</text>
+</card>
+<card>
+ <name>Harsurfir, Godly Quarry</name>
+ <set picURL="/Harsurfir, Godly Quarry.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Harsurfir enters the battlefield tapped.
+T: Add R.
+1RR, T, Sacrifice a permanent: Create a token that’s a copy of that permanent. It has haste and “At the beginning of the end step, exile this permanent.”</text>
+</card>
+<card>
+ <name>Urwrapir, Restored Wilderness</name>
+ <set picURL="/Urwrapir, Restored Wilderness.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Urwrapir enters the battlefield tapped.
+T: Add G.
+1G, T, Sacrifice Urwrapir: Copy target activated or triggered ability you control. You may choose new targets for it.</text>
+</card>
+<card>
+ <name>Domination Center</name>
+ <set picURL="/Domination Center.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T: Put a control counter on target nonbasic land an opponent controls without a control counter on it. Exchange control of Domination Center and that land, then untap those lands.</text>
+</card>
+<card>
+ <name>Advocate of Heresy</name>
+ <set picURL="/Advocate of Heresy.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <type>Artifact Creature - Zombie Demon </type>
+ <pt>7/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Advocate of Heresy enters the battlefield, destroy up to one target creature. You get an amount of V equal to that creature’s mana value. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Nilshroud Traversal</name>
+ <set picURL="/Nilshroud Traversal.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, each opponent loses 1 life. You gain 1 life and you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Violator of Thermodynamics</name>
+ <set picURL="/Violator of Thermodynamics.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Artifact Creature - Zombie Soldier </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Violator of Thermodynamics attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, you get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Hierarch of Exultation</name>
+ <set picURL="/Hierarch of Exultation.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Zombie Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Hierarch of Exultation or another permanent you control leaves the battlefield, you gain 1 life.
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Serrated Angel</name>
+ <set picURL="/Serrated Angel.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Artifact Creature - Zombie Angel </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Flying, vigilance</text>
+</card>
+<card>
+ <name>Scavenged Technology</name>
+ <set picURL="/Scavenged Technology.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has double strike.</text>
+</card>
+<card>
+ <name>Tithing Protocol</name>
+ <set picURL="/Tithing Protocol.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Spells cost 1 more to cast.
+At the beginning of each end step, if no spells were cast this turn, sacrifice Tithing Protocol and create two 1/1 white Human creature tokens.</text>
+</card>
+<card>
+ <name>Erfex Reclaimer</name>
+ <set picURL="/Erfex Reclaimer.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Erfex Reclaimer enters the battlefield, create a token that’s a copy of an Aura or Equipment you control attached to target permanent or player it could attach to.</text>
+</card>
+<card>
+ <name>Felygon, Utopian Sprawl</name>
+ <set picURL="/Felygon, Utopian Sprawl.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Spells you cast cost 1 more to cast.
+T: Add WW.</text>
+</card>
+<card>
+ <name>Maturing Ankylosaur</name>
+ <set picURL="/Maturing Ankylosaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Mill a card. Then put a +1/+1 counter on Maturing Ankylosaur if there are eight or more cards in your graveyard.</text>
+</card>
+<card>
+ <name>Urwrapir Warden</name>
+ <set picURL="/Urwrapir Warden.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever you cast a Dinosaur spell, draw a card.</text>
+</card>
+<card>
+ <name>Sifter Wurm</name>
+ <set picURL="/Sifter Wurm.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <type>Creature - Wurm </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card’s mana value.</text>
+</card>
+<card>
+ <name>Lost in Geometry</name>
+ <set picURL="/Lost in Geometry.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all damage that would be dealt by non-Fractal sources this turn.
+Each attacking creature doesn’t untap during its controller’s next untap step. You get V for each of those creatures. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Self-Intersector</name>
+ <set picURL="/Self-Intersector.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may pay 1. If you don’t, sacrifice Self-Intersector and it deals 3 damage to you.
+1, T: Target player creates a token that’s a copy of Self-Intersector.</text>
+</card>
+<card>
+ <name>Self-Assembling Phoenix</name>
+ <set picURL="/Self-Assembling Phoenix.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Phoenix </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+At the beginning of combat on your turn, if your complexity is four or greater, return Self-Assembling Phoenix from your graveyard to the battlefield. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Render Time</name>
+ <set picURL="/Render Time.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>6UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs X less to cast, where X is the total complexity of each player.
+End the turn. (Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</text>
+</card>
+<card>
+ <name>Reject Input</name>
+ <set picURL="/Reject Input.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. You get V/U. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Shoal Summoner</name>
+ <set picURL="/Shoal Summoner.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W // V/BV/GW</manacost>
+ <type>Creature - Fish  // Vertex Sorcery</type>
+ <pt>2/2</pt>
+ <tablerow>3</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, you get V. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+Put a +1/+1 counter on each creature you control.</text>
+</card>
+<card>
+ <name>Withered Scorngon</name>
+ <set picURL="/Withered Scorngon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2B // V/UV/G1B</manacost>
+ <type>Creature - Fractal Horror  // Vertex Sorcery</type>
+ <pt>3/2</pt>
+ <tablerow>3</tablerow>
+ <text>Discard a card: Withered Scorngon gets +1/+1 until end of turn. You get V. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Cruelean's Enforcer</name>
+ <set picURL="/Cruelean's Enforcer.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature doesn’t untap during its controller’s untap step.
+Equipped creature has “T: This creature deals 2 damage to any target. Activate only as a sorcery.”
+Equip 3, T</text>
+</card>
+<card>
+ <name>Empty Scene</name>
+ <set picURL="/Empty Scene.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land  - Texture </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2: Until end of turn, Empty Scene gains the abilities of each permanent that entered the battlefield this turn. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Cultivator’s Caravan</name>
+ <set picURL="/Cultivator’s Caravan.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Vehicle </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color.
+Crew 3 (Tap any number of other creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Pot of Wishes</name>
+ <set picURL="/Pot of Wishes.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>5, T: Shuffle your library, then exile the top card of it. You may cast that card without paying its mana cost.</text>
+</card>
+<card>
+ <name>Boundless Ocean</name>
+ <set picURL="/Boundless Ocean.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Boundless Ocean enters the battlefield tapped.
+When Boundless Ocean enters the battlefield, you may tap or untap target creature.
+T: Add U.</text>
+</card>
+<card>
+ <name>Buffer Zone</name>
+ <set picURL="/Buffer Zone.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may tap or untap target permanent.
+You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Extrude Wisdom</name>
+ <set picURL="/Extrude Wisdom.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top two cards of your library. Put one of those cards into your hand and the other into your graveyard.
+Retopology UU (Cast a copy of this from your graveyard by exiling it and paying UU. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Manaqueduct</name>
+ <set picURL="/Manaqueduct.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact Creature - Wall </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+1U, T: Scry 2.
+3U, Sacrifice Manaqueduct: Draw two cards.</text>
+</card>
+<card>
+ <name>Migrating Songon</name>
+ <set picURL="/Migrating Songon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Creature - Fractal Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Migrating Songon deals combat damage to a player, you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Packet Loss</name>
+ <set picURL="/Packet Loss.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, target nonland permanent gains “T: Return target nonland permanent to its owner’s hand.”</text>
+</card>
+<card>
+ <name>Hyperbolic Jumper</name>
+ <set picURL="/Hyperbolic Jumper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Frog </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+If you’ve cast a spell this turn and it wasn’t your main phase, this permanent has flying.</text>
+</card>
+<card>
+ <name>Raving Crab</name>
+ <set picURL="/Raving Crab.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Crab </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a spell, untap Raving Crab.</text>
+</card>
+<card>
+ <name>Urwrapir Ambusher</name>
+ <set picURL="/Urwrapir Ambusher.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Crocodile </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Urwrapir Ambusher can’t be blocked if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Seafloor Scrounger</name>
+ <set picURL="/Seafloor Scrounger.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Trilobite </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Seafloor Scrounger gets +1/+1 if a spell or ability caused you to put a card into your hand this turn.
+Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying 2UU. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Security Breach</name>
+ <set picURL="/Security Breach.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 1U less to cast if its target wasn’t cast from a hand.
+Counter target spell.</text>
+</card>
+<card>
+ <name>Obsolete Sentinel</name>
+ <set picURL="/Obsolete Sentinel.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Artifact Creature - Zombie Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Whenever this permanent deals damage to a player or planeswalker, draw a card.</text>
+</card>
+<card>
+ <name>Squid Squad</name>
+ <set picURL="/Squid Squad.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Squid </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever your complexity is three or greater, you may tap or untap target permanent. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Nurbs’ Collector</name>
+ <set picURL="/Nurbs’ Collector.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Dinosaur Drake </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a spell or ability draws or puts a card into your hand, you get V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Overfisher</name>
+ <set picURL="/Overfisher.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Human Ranger </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Vigilance
+T: Target player mills two cards.</text>
+</card>
+<card>
+ <name>Mesh Warper</name>
+ <set picURL="/Mesh Warper.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Artifact Creature - Zombie Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Protection from opponents with complexity two or fewer (A player’s complexity is the number of spells they’ve cast and nonland abilities they’ve activated this turn.)
+Discard a card: Untap Mesh Warper. Then if your complexity is three or greater, draw a card. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Rastira Fiend</name>
+ <set picURL="/Rastira Fiend.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Creature - Bear Mutant </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>1: Untap target permanent. Activate only as a sorcery and only once each turn.</text>
+</card>
+<card>
+ <name>Tidal Drift</name>
+ <set picURL="/Tidal Drift.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target permanent on top of its owner’s library.
+If your complexity is three or greater, draw a card. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Submerged Titangill</name>
+ <set picURL="/Submerged Titangill.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <type>Creature - Shark </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 3
+1U, Discard Submerged Titangill: Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+</card>
+<card>
+ <name>Procedural Generation</name>
+ <set picURL="/Procedural Generation.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2UR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>For each nonland permanent you control, create a token that’s a copy of that permanent, except it has haste and defender. Exile those tokens at the beginning of the next end step.
+Exile Procedural Generation.</text>
+</card>
+<card>
+ <name>Pool of Becoming</name>
+ <set picURL="/Pool of Becoming.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>As Pool of Becoming enters the battlefield, choose a basic land type.
+Basic lands you control are the chosen land type in addition to their other types.
+T: Add C.</text>
+</card>
+<card>
+ <name>Unlock the Quarternion</name>
+ <set picURL="/Unlock the Quarternion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>3WUU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell can’t be countered except by spells with mana value 4 or greater.
+Target player draws four cards, gains 4 life and gets V/B. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Turbulence Algorithm</name>
+ <set picURL="/Turbulence Algorithm.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Bird </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Turbulence Algorithm attacks, you may put the cards in your hand on the bottom of your library in a random order. If you do, draw that many cards plus one.</text>
+</card>
+<card>
+ <name>Nurbs, the Wild King</name>
+ <set picURL="/Nurbs, the Wild King.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>GUR</manacost>
+ <type>Legendary Creature - Troll Demigod </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>As long as your complexity is three or greater, permanents you control have the activated abilities of Nurbs, the Wild King.
+T: Add G, U, or R.
+R, T: Put a +1/+1 counter on this.
+1U, T: Draw a card.</text>
+</card>
+<card>
+ <name>Kinema, Queen Eternal</name>
+ <set picURL="/Kinema, Queen Eternal.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1URW</manacost>
+ <type>Legendary Creature - Human Demigod </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+If you would copy a spell or create a token that’s a copy of a permanent one or more times, do so an additional time.</text>
+</card>
+<card>
+ <name>Cruelean, Ruler of None</name>
+ <set picURL="/Cruelean, Ruler of None.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2RWB</manacost>
+ <type>Legendary Creature - Cyclops Demigod </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>R, Discard a land card: Cruelean, Ruler of None deals 3 damage to target creature.
+W, Sacrifice a land: Create two 1/1 white Human creature tokens.
+B, Exile a land card from your graveyard: Each opponent loses 2 life.</text>
+</card>
+<card>
+ <name>Abandonmare</name>
+ <set picURL="/Abandonmare.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Nightmare Horse </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Abandonmare enters the battlefield, each player discards two cards.
+Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying BB. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Skirweigh, Abyssal Tsar</name>
+ <set picURL="/Skirweigh, Abyssal Tsar.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>BGU</manacost>
+ <type>Legendary Creature - Demon Demigod </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Pay 1 life: Untap target nonland permanent you control without a stun counter on it. If you do, put a stun counter on it. Activate only during your turn.</text>
+</card>
+<card>
+ <name>Systems Collapse</name>
+ <set picURL="/Systems Collapse.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Remove all counters from all creatures and planeswalkers.
+• Players lose all V.
+• Exile all graveyards.</text>
+</card>
+<card>
+ <name>Middleware Distributor</name>
+ <set picURL="/Middleware Distributor.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact Creature - Zombie Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a spell or ability draws or puts a card into your hand, Middleware Distributor gets +1/+1 until end of turn. Then Middleware Distributor gains hexproof until end of turn if that card wasn’t drawn.</text>
+</card>
+<card>
+ <name>Quintarchs' Decree</name>
+ <set picURL="/Quintarchs' Decree.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. Its controller gets an amount of V equal to that creature’s mana value. (They can spend V to cast Vertex spells.)</text>
+</card>
+<card>
+ <name>Quintarchal Pariah</name>
+ <set picURL="/Quintarchal Pariah.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>X, T, Sacrifice an Aura: You may search your hand or library for an Aura card with mana value X or less and cast it without paying its mana cost. If you searched your library this way, shuffle. Activate only during your turn.</text>
+</card>
+<card>
+ <name>Irticull's Vanguard</name>
+ <set picURL="/Irticull's Vanguard.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>WWW</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Irticull’s Vanguard enters the battlefield, exile target nonland permanent an opponent controls until Irticull’s Vanguard leaves the battlefield.
+Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying 1WWW. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Ecocide</name>
+ <set picURL="/Ecocide.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all nonland permanents. You get V for each permanent destroyed this way. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Edravir's Lynchpin</name>
+ <set picURL="/Edravir's Lynchpin.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Each spell a player casts costs 1 more to cast for each other spell that player has cast this turn.
+Whenever you cast a spell spending an amount of mana greater than its mana value, create a number of 1/1 white Human creature tokens equal to the difference.</text>
+</card>
+<card>
+ <name>Urban Majesty</name>
+ <set picURL="/Urban Majesty.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>3GW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +5/+5.
+When enchanted creature dies, create five 1/1 white Human creature tokens.</text>
+</card>
+<card>
+ <name>Lord of the World Moat</name>
+ <set picURL="/Lord of the World Moat.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Creature - Whale </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+This permanent can’t be blocked.
+Whenever this permanent becomes tapped, scry X, where X is this permanent’s mana value, then draw a card.</text>
+</card>
+<card>
+ <name>Amphibious Emulator</name>
+ <set picURL="/Amphibious Emulator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Frog </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Whenever this permanent deals damage to a player or planeswalker, create a token that’s a copy of it, except the copy isn’t legendary if this permanent is legendary. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Luddite Infiltrator</name>
+ <set picURL="/Luddite Infiltrator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Luddite Infiltrator enters the battlefield, return target instant or sorcery card from your graveyard to your hand. Then if your complexity is three or greater, you may cast a copy of that card. It costs 3 less to cast. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Abstraction Breaker</name>
+ <set picURL="/Abstraction Breaker.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Demon </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+At the beginning of each opponent’s end step, you sacrifice a creature.
+Whenever you sacrifice a creature, you may pay 1 life. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Flesh Centrifuge</name>
+ <set picURL="/Flesh Centrifuge.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>7B</manacost>
+ <type>Artifact Creature - Zombie Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 1 less to cast for each artifact you control.
+When Flesh Centrifuge enters the battlefield, it deals 3 damage to any target and you gain 3 life.</text>
+</card>
+<card>
+ <name>Thassaraptor</name>
+ <set picURL="/Thassaraptor.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Thassaraptor enters the battlefield with a double strike counter on it if mana from a nonland source was spent to cast it.</text>
+</card>
+<card>
+ <name>Harsurfir Overseer</name>
+ <set picURL="/Harsurfir Overseer.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>The first instant or sorcery spell you cast each turn costs 1 and V less to cast. (This can reduce V costs to nothing.)</text>
+</card>
+<card>
+ <name>Lévy Paths</name>
+ <set picURL="/Lévy Paths.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>X is your complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn, including this one.)
+If X is 1, Add CCC.
+If X is 2, discard two cards. Draw two cards.
+If X is 3, create a 3/3 green Dinosaur creature token with a +1/+1 counter on it.
+If X is 4 or greater, do all of the above.</text>
+</card>
+<card>
+ <name>Usurp the Quintarchy</name>
+ <set picURL="/Usurp the Quintarchy.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of up to X target nonland permanents, where X is your complexity. Untap those permanents. They gain haste until end of turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Into Primal Archives</name>
+ <set picURL="/Into Primal Archives.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>T, Tap an untapped creature you control: Add one mana of any color.
+Whenever your complexity is three or greater, untap up to one target creature and put a +1/+1 counter on it. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Optimise </name>
+ <set picURL="/Optimise .full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact, enchantment, or planeswalker. Counter all abilities that it was the source of. (Mana abilities can’t be countered.)</text>
+</card>
+<card>
+ <name>Marching Cubes</name>
+ <set picURL="/Marching Cubes.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may mill a card. If you do and that card doesn’t share a name with another card in your graveyard, you get V. Then if there are fifteen or more cards in your graveyard with different names, you get that many V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Rastira Mauler</name>
+ <set picURL="/Rastira Mauler.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Cat </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever your complexity is three or greater, Rastira Mauler fights up to one target creature you don’t control. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Irticull, Shadow Sultan</name>
+ <set picURL="/Irticull, Shadow Sultan.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1WBG // V/RV/GX</manacost>
+ <type>Legendary Creature - Spirit Demigod  // Vertex Sorcery</type>
+ <pt>4/4</pt>
+ <tablerow>3</tablerow>
+ <text>Lifelink
+Whenever a creature you 
+control dies, you get V. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+Exile each creature card in your graveyard with mana value X or less. For each card exiled this way, create a token that’s a copy of it.</text>
+</card>
+<card>
+ <name>Graphical Fidelity</name>
+ <set picURL="/Graphical Fidelity.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>T, Pay 2 life: You get V/U. (Spend V to cast copies of Vertex spells.)
+5BB: Exchange your life total with the amount of V you have.</text>
+</card>
+<card>
+ <name>Plains</name>
+ <set picURL="/Plains.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Tyrannoscorpius Rex</name>
+ <set picURL="/Tyrannoscorpius Rex.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1GGG</manacost>
+ <type>Creature - Scorpion </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Tyrannoscorpius Rex can’t be blocked by more than one creature.
+Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying GGG. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Bitrot, Nilshroud Parasite</name>
+ <set picURL="/Bitrot, Nilshroud Parasite.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>2BR</manacost>
+ <type>Legendary Planeswalker - Bitrot </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>When Bitrot enters the battlefield or at the beginning of your upkeep, up to one target nonland permanent gains Bitrot’s abilities until end of turn.
+[+1]: Gain control of up to one target permanent that shares a card type with this until end of turn. Untap it. It has haste until end of turn.
+[+1]: Exile up to one target card from a graveyard. If it shares a card type with this, you may cast a copy of it.
+[-2]: This deals 3 damage to any target.
+</text>
+</card>
+<card>
+ <name>The Metaball</name>
+ <set picURL="/The Metaball.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Legendary Creature - Orb Dinosaur </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Tap X Equipment and/or Auras you control: Add X mana in any combination of colors. </text>
+</card>
+<card>
+ <name>Fertile Progengon</name>
+ <set picURL="/Fertile Progengon.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Fractal Elk </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color. 
+Whenever your complexity is three or greater, create a 1/1 white Human creature token. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Deified Dicraeosaur</name>
+ <set picURL="/Deified Dicraeosaur.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>RGG</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Deified Dicraeosaur enters the battlefield, choose one—
+• Put two +1/+1 counters on another target Dinosaur you control.
+• Return target monocolored Dinosaur card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Prawth's Ultimatum</name>
+ <set picURL="/Prawth's Ultimatum.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent chooses a number. You may get that many V. If you don’t, that player chooses sacrifices all but that many permanents. (Spend V to cast vertex spells.)</text>
+</card>
+<card>
+ <name>Backwards Companion</name>
+ <set picURL="/Backwards Companion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1UB</manacost>
+ <type>Creature - Human Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever one or more cards are put into an opponent’s graveyard from anywhere, untap up to one target nonland permanent and put a stun counter on it.</text>
+</card>
+<card>
+ <name>Novel Perspectives</name>
+ <set picURL="/Novel Perspectives.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Novel Perspectives enters the battlefield, you get V/W. (Spend V to cast copies of Vertex spells.)
+T: Draw a card. Activate only if you’ve put a card into your hand this turn and it wasn’t drawn.</text>
+</card>
+<card>
+ <name>Felygon Skyswarm</name>
+ <set picURL="/Felygon Skyswarm.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Dinosaur Drake </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a spell or ability draws or puts a card into your hand, tap up to one target nonland permanent.</text>
+</card>
+<card>
+ <name>Dynotopic Stampede</name>
+ <set picURL="/Dynotopic Stampede.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Creature - Dinosaur </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Dynotopic Stampede enters the battlefield or attacks, destroy up to one target land. Its controller creates a colorless land token named Nilvoid with hexproof and “T: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Cadix, the Raze-Rager</name>
+ <set picURL="/Cadix, the Raze-Rager.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Legendary Artifact Creature - Zombie Dinosaur </type>
+ <pt>12/12</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Ward—Pay 3 life.
+Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
+</card>
+<card>
+ <name>Quintarchal Ascension</name>
+ <set picURL="/Quintarchal Ascension.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put a stun counter on all permanents and untap them.</text>
+</card>
+<card>
+ <name>Calf of the Restored Age</name>
+ <set picURL="/Calf of the Restored Age.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>GU</manacost>
+ <type>Creature - Elephant </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if you cast a spell this turn and haven’t spent mana from lands to cast a spell this turn, draw a card.</text>
+</card>
+<card>
+ <name>Buffer Overflow</name>
+ <set picURL="/Buffer Overflow.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>If it isn’t an extra turn, take an extra turn after this one.
+Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUUUUU. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Duplicate Specialty</name>
+ <set picURL="/Duplicate Specialty.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Corrupted Protocol</name>
+ <set picURL="/Corrupted Protocol.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1WB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Zombies you control get +1/+1.
+Whenever an opponent loses life, you may tap Corrupted Protocol. If you do, you may cast a Zombie card from your graveyard with mana value less than or equal to the amount of life lost.</text>
+</card>
+<card>
+ <name>Discover the Obsolete</name>
+ <set picURL="/Discover the Obsolete.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Repeat the following process for each nontoken Aura or Equipment you control. For each player or nontoken permanent it could enchant or equip, you may create a token that’s a copy of that Aura or Equipment attached to that permanent or player. </text>
+</card>
+<card>
+ <name>Suffocating Pollution</name>
+ <set picURL="/Suffocating Pollution.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>BR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a player casts a spell other than their first each turn, that player loses 2 life.
+Whenever a player casts a spell from their hand, they get V/W. Then if they have discard a card if they have six or more V. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Replica of Haxilir</name>
+ <set picURL="/Replica of Haxilir.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>14</manacost>
+ <type>Artifact Creature - Zombie Dragon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>This spell costs 2 less to cast for each land type among lands you control.
+Flying
+Whenever Replica of Haxilir attacks, the next spell you cast this turn costs 1 less to cast for each land type among lands you control as this ability resolved.</text>
+</card>
+<card>
+ <name>Rogue Process</name>
+ <set picURL="/Rogue Process.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost>3C</manacost>
+ <type>Artifact Creature - Zombie Assassin </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+Retopology 1CCC (Cast a copy of this from your graveyard by exiling it and paying 1CCC. Spend only mana from differently named sources this way.)</text>
+</card>
+<card>
+ <name>Rhystic Palace</name>
+ <set picURL="/Rhystic Palace.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Rhystic Palace enters the battlefield tapped.
+T: Add one mana of any color.
+1: Tap this permanent. Only your opponents may activate this ability and only once each turn.</text>
+</card>
+<card>
+ <name>Ancient Activator</name>
+ <set picURL="/Ancient Activator.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Target player draws a card, then discards a card. Then if a library has twenty or fewer cards in it, create a 3/3 Zombie Horror artifact creature token. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Deprecated Dump</name>
+ <set picURL="/Deprecated Dump.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>As Deprecated Dump enters the battlefield, exile an untapped land you control until Deprecated Dump leaves the battlefield.
+Deprecated Dump has all activated and triggered abilities of cards exiled by it.
+Whenever you tap Deprecated Dump for mana, add C.</text>
+</card>
+<card>
+ <name>Conquex, Broken Mandate</name>
+ <set picURL="/Conquex, Broken Mandate.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has protection from mana value 3 or greater.
+Whenever equipped creature deals combat damage to a player, create a 2/2 black Horror creature token with prowess.
+Equip 3
+Equip artifact creature 1, T</text>
+</card>
+<card>
+ <name>Hallway Thomasson</name>
+ <set picURL="/Hallway Thomasson.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each player’s upkeep, that player chooses half the permanents they control, rounded down. Those permanents phase out. (Treat phased-out permanents and anything attached to them as though they don’t exist until their controller’s next turn.)</text>
+</card>
+<card>
+ <name>Nilshroud Apex</name>
+ <set picURL="/Nilshroud Apex.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>BR // B/RV/GV/B</manacost>
+ <type>Creature - Dinosaur Horror  // Vertex Enchantment</type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Nilshroud Apex attacks, you lose 2 life and you get V/W. (Spend V to cast copies of Vertex spells.)
+--- 
+(You can cast copies of this while in play.)
+At the beginning of your upkeep, Wound deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Guzzle Giblets</name>
+ <set picURL="/Guzzle Giblets.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to the sacrificed creature’s power, get an amount of V equal to its toughess, and gain an amount of life equal to its mana value.
+(Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Deprecated Harvest</name>
+ <set picURL="/Deprecated Harvest.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Deprecated Harvest enters the battlefield, you get V/U. (Spend V to cast copies of Vertex spells.)
+T: You may put a Texture card from your hand onto the battlefield.</text>
+</card>
+<card>
+ <name>Albedo Arbalest</name>
+ <set picURL="/Albedo Arbalest.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant - Shader </type>
+ <tablerow>3</tablerow>
+ <text>
+(This spell gains effects based on the sources of mana spent to cast it.)
+I — Land — 
+Tap all creatures target player controls.
+II — Artifact — 
+Put a +1/+1 counter on each creature target player controls.
+III, IV, V, VI, C — Enchantment — Target player gains 5 life.</text>
+</card>
+<card>
+ <name>Occult Occlusion</name>
+ <set picURL="/Occult Occlusion.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant - Shader </type>
+ <tablerow>3</tablerow>
+ <text>
+(This spell gains effects based on the sources of mana spent to cast it.)
+I — Land — 
+Occult Occlusion deals 3 damage to any target and you gain 3 life.
+II — Artifact — 
+Target player draws two cards and loses 2 life.
+III, IV, V, VI, C — Instant —
+At the beginning of the next end step, target player discards two cards.</text>
+</card>
+<card>
+ <name>Metallic Mirage</name>
+ <set picURL="/Metallic Mirage.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant - Shader </type>
+ <tablerow>3</tablerow>
+ <text>
+(This spell gains effects based on the sources of mana spent to cast it.)
+I — Land — 
+Return target spell or nonland permanent to its owner’s hand.
+II — Creature — 
+Whenever you cast your next noncreature spell this turn, copy it. You may choose new targets for the copies.
+III, IV, V, VI, C — Sorcery — 
+Add CCC.</text>
+</card>
+<card>
+ <name>Roughness Rails</name>
+ <set picURL="/Roughness Rails.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant - Shader </type>
+ <tablerow>3</tablerow>
+ <text>
+(This spell gains effects based on the sources of mana spent to cast it.)
+I — Land — 
+Until end of turn, if a source would deal damage to target player, it deals double that damage instead.
+II — Instant — 
+Roughness Rails deals 2 damage to any target.
+III, IV, V, VI, C — Sorcery — 
+Roughness Rails deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Subsurface Scattering</name>
+ <set picURL="/Subsurface Scattering.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Instant - Shader </type>
+ <tablerow>3</tablerow>
+ <text>
+(This spell gains effects based on the sources of mana spent to cast it.)
+I — Land — 
+Return target card from your graveyard to your hand. Exile Subsurface Scattering.
+II — Creature — 
+Scry 2, then draw a card.
+III, IV, V, VI, C — Enchantment — You may put a land card from your graveyard or hand onto the battlefield.</text>
+</card>
+<card>
+ <name>Voracious Mollusk</name>
+ <set picURL="/Voracious Mollusk.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Snail </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 1
+Whenever an effect instructs an opponent to pay life or mana, put a +1/+1 counter on target creature. (This includes optional costs, but not costs to play a spell or ability. This triggers even if the cost isn’t paid.)</text>
+</card>
+<card>
+ <name>Flagstones of the Broken Age</name>
+ <set picURL="/Flagstones of the Broken Age.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+2, T: You get V/W. (Spend V to cast copies of Vertex spells.)</text>
+</card>
+<card>
+ <name>Memory Spike</name>
+ <set picURL="/Memory Spike.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player mills seven cards.</text>
+</card>
+<card>
+ <name>Nilshroud Mockery</name>
+ <set picURL="/Nilshroud Mockery.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards, then put a nonland card from your hand into your command zone. It becomes Vertex in addition to its other types, and costs an additional V/B to cast. (You may repeatedly cast copies of that card by paying its mana cost and Vertex cost.)</text>
+</card>
+<card>
+ <name>Grim Tutor</name>
+ <set picURL="/Grim Tutor.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card, put that card into your hand, then shuffle. You lose 3 life.</text>
+</card>
+<card>
+ <name>Crashing Rot</name>
+ <set picURL="/Crashing Rot.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Mill four cards. For each card milled this way, you may pay 2 life. If you do, put that card into your hand.</text>
+</card>
+<card>
+ <name>Rapid Terraforming</name>
+ <set picURL="/Rapid Terraforming.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Tap an untapped permanent you control: Rapid Terraforming deals 1 damage to any target.
+Tapped an untapped permanent you control: Add R.
+At the beginning of the end step, sacrifice Rapid Terraforming.</text>
+</card>
+<card>
+ <name>Relentless Consumption</name>
+ <set picURL="/Relentless Consumption.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a player loses life, you gain that much V. (Spend V to cast copies of Vertex spells.)
+T: Add CCC.</text>
+</card>
+<card>
+ <name>Friends Unfettered</name>
+ <set picURL="/Friends Unfettered.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to four creature cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Shard of Conquex</name>
+ <set picURL="/Shard of Conquex.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land - Texture </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1,T: Add one mana of any color.
+WUBRG, T, Sacrifice Shard of Conquex: It deals 5 damage to any target and you gain 5 life. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Prefabrication</name>
+ <set picURL="/Prefabrication.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>T: Create a 2/2 blue Bird creature token with flying. Activate only if your complexity is five or greater. or if Prefabrication entered the battlefield this turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+</card>
+<card>
+ <name>Ray Tracing</name>
+ <set picURL="/Ray Tracing.full.jpg" picURLHq="" picURLSt="">PVR</set>
+ <color>M</color>
+ <manacost>1RG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile cards from the top of your library until you exile a land card. Put that card onto the battlefield tapped. Until end of turn, you may cast spells exiled this way.</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
