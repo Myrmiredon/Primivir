@@ -5,7 +5,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Gift%20of%20Wilderness.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Gift%20of%20Wilderness.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact Creature — Zombie Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Disregarded%20Project.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Disregarded%20Project.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Epoch%20Ending.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Epoch%20Ending.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Gathering%20Olorosaurs.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Gathering%20Olorosaurs.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Heirloom%20of%20the%20Obsolete.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Heirloom%20of%20the%20Obsolete.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Abstraction%20Peeler.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Abstraction%20Peeler.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Recovered%20Guardian.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Recovered%20Guardian.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prophetic%20Prism.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prophetic%20Prism.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Height%20Map.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Height%20Map.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Planeswalker — Anivir ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Anivir%2c%20Forgotten%20Savior.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Anivir%2c%20Forgotten%20Savior.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Extruded%20Skyscraper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Extruded%20Skyscraper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Absorption.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Absorption.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact Creature — Zombie Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Awakened%20Marauder.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Awakened%20Marauder.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prepackaged%20Assembly.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prepackaged%20Assembly.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Dinosaur Crocodile ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Sun%20Pouncer.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Sun%20Pouncer.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Pangolin ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tatu-Peba.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tatu-Peba.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Graceful%20Coelurosaur.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Graceful%20Coelurosaur.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Fractal Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Downscaled%20Matrongon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Downscaled%20Matrongon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Dinosaur Dog ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%20Scavenger.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Harsurfir%20Scavenger.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Fractal Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hellish%20Inferngon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hellish%20Inferngon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Swiftfoot%20Striker.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Swiftfoot%20Striker.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Maeverano%20Herdmate.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Maeverano%20Herdmate.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Stonehewn%20Colossus.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Stonehewn%20Colossus.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Coordinated%20Hunt.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Coordinated%20Hunt.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Spoils%20of%20Scarcity.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Spoils%20of%20Scarcity.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Conflagration.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Conflagration.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Overharvest.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Overharvest.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Into%20the%20Mines.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Into%20the%20Mines.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tragedy%20of%20the%20Commons.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tragedy%20of%20the%20Commons.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Render%20Flesh.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Render%20Flesh.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Bevelled%20Cliffs.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Bevelled%20Cliffs.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cubic%20Flames.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cubic%20Flames.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tesseractapillar.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tesseractapillar.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Charging%20Argosaur.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Charging%20Argosaur.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Fractal Plant ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Lush%20Stamengon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Lush%20Stamengon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Humongous%20Detritivore.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Humongous%20Detritivore.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Herald%20of%20the%20Restored%20Age.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Herald%20of%20the%20Restored%20Age.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Apex%20of%20Antiquity.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Apex%20of%20Antiquity.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Crude%20Onslaught.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Crude%20Onslaught.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Primal%20Power.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Primal%20Power.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Dawngon%20Infusion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Dawngon%20Infusion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Burrow%20Deep.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Burrow%20Deep.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Overlaid%20Bridge.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Overlaid%20Bridge.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Plummeting%20Smash.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Plummeting%20Smash.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Mesh%20Rot.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Mesh%20Rot.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Specular%20Shack.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Specular%20Shack.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Virgin%20Media.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Virgin%20Media.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Rabbit ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Laggymorph.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Laggymorph.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Polystone%20Quarry.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Polystone%20Quarry.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Fox ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Blazefoxes%20of%20Moz.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Blazefoxes%20of%20Moz.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Sunbound%20Swarm.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Sunbound%20Swarm.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Overclocked%20Dragon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Overclocked%20Dragon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Geometric%20Singularity.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Geometric%20Singularity.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Mana%20Void.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Mana%20Void.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Emerging%20Wildlife.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Emerging%20Wildlife.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Ape ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Elder%20Gigantops.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Elder%20Gigantops.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Elephant ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Stampeding%20Goliath.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Stampeding%20Goliath.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Territorial%20Primarch.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Territorial%20Primarch.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Leviathan ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Slipstream%20Enigma.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Slipstream%20Enigma.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Artifact Creature — Zombie Angel ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Armament%20of%20Armageddon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Armament%20of%20Armageddon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Escape%20the%20Nilshroud.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Escape%20the%20Nilshroud.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Sacred%20Signs.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Sacred%20Signs.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Monkey ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Sentinel.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Felygon%20Sentinel.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Fractal Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Parallaxadaisical%20Dengon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Parallaxadaisical%20Dengon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Fox ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Orchard%20Vixen.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Orchard%20Vixen.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/The%20Downscaling.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/The%20Downscaling.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "",
 	        "type": " ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Vertex%20Reminder.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Vertex%20Reminder.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{W}{U}{B}",
 	        "type": "Artifact Creature — Zombie Angel ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Custodian%20of%20Reality.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Custodian%20of%20Reality.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Superficial%20Salvation.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Superficial%20Salvation.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{3}{U}{B}",
 	        "type": "Legendary Planeswalker — Prawth ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prawth%2c%20Planar%20Decimator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prawth%2c%20Planar%20Decimator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Skeleton Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cache%20Dredger.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cache%20Dredger.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Zombie Druid ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Horizon%20Collector.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Horizon%20Collector.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/A%20Populated%20World.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/A%20Populated%20World.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Artifact Creature — Zombie Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Imperial%20Excommunicator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Imperial%20Excommunicator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Revitalised%20Cryptid.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Revitalised%20Cryptid.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{4}{B}{G}",
 	        "type": "Creature — Monkey ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Stick%20Retriever.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Stick%20Retriever.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Dinosaur Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Predator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Predator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{4}{R}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Matriarch.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urwrapir%20Matriarch.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Uverngon%27s%20Messenger.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Uverngon%27s%20Messenger.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Depths%20Trawler.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%20Depths%20Trawler.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Extinct%20Rebel.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Extinct%20Rebel.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Slumbering%20Dreadblade.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Slumbering%20Dreadblade.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nightmarish%20Terrain.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nightmarish%20Terrain.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Savage%20Pike.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Savage%20Pike.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prawth%27s%20Research%20Station.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prawth%27s%20Research%20Station.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Symmetric%20Construction.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Symmetric%20Construction.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{4}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Defragment.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Defragment.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Obsolete%20Renaissance.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Obsolete%20Renaissance.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Burn%20Barren.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Burn%20Barren.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Settle%20Inhospitable%20Lands.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Settle%20Inhospitable%20Lands.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Explorations.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urwrapir%20Explorations.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Friend%20Collector.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Friend%20Collector.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Unicorn ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Witness%20of%20the%20Obsolete.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Witness%20of%20the%20Obsolete.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Artifact Creature — Zombie Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Asset%20Manager.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Asset%20Manager.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Mystic ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Chronicler%20of%20the%20Obsolete.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Chronicler%20of%20the%20Obsolete.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Consecrated%20Farmland.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Consecrated%20Farmland.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tainted%20Bureaucrat.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tainted%20Bureaucrat.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Desperate%20Pathfinding.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Desperate%20Pathfinding.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Ecocidal%20Tracker.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Ecocidal%20Tracker.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Energy%20Tax.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Energy%20Tax.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Scientist.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Felygon%20Scientist.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Harsh%20Sentence.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Harsh%20Sentence.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hierarchic%20Extortion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hierarchic%20Extortion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Cartographer.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%20Cartographer.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchal%20Bodyguard.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Quintarchal%20Bodyguard.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Shelter%20from%20the%20Elements.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Shelter%20from%20the%20Elements.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%20Ferrier.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Harsurfir%20Ferrier.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Trapped%20in%20the%20Nilshroud.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Trapped%20in%20the%20Nilshroud.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Warden%20of%20Inefficiencies.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Warden%20of%20Inefficiencies.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Saturated%20Savannah.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Saturated%20Savannah.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Memory%20Hole.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Memory%20Hole.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Occluded%20Bog.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Occluded%20Bog.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Delete.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Delete.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Snake ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Kinematic%20Constrictor.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Kinematic%20Constrictor.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nocturngon%20Infusion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nocturngon%20Infusion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Sentence%20to%20Oblivion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Sentence%20to%20Oblivion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Backface%20Culling.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Backface%20Culling.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Bleak%20Return.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Bleak%20Return.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Bog%20Snapper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Bog%20Snapper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Fractal Snake ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Conscripted%20Serpengon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Conscripted%20Serpengon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Ngonification.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Ngonification.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact Creature — Zombie Wall ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Witness%20to%20Nil.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Witness%20to%20Nil.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Despawn.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Despawn.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Mulcher.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Mulcher.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Artifact Creature — Zombie Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Soul%20Taker.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Soul%20Taker.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Dinosaur Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Scavenger.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%20Scavenger.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Artifact Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Planetary%20Harvester.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Planetary%20Harvester.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Fractal Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Defiled%20Revengon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Defiled%20Revengon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Fractal Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Feasting%20Ruingon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Feasting%20Ruingon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Fractal Human ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Uverngon%2c%20Quintarch%20Usurper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Uverngon%2c%20Quintarch%20Usurper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nurbs%27%20Familiar.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nurbs%27%20Familiar.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Boundary%20Break.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Boundary%20Break.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Draw%20Distance.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Draw%20Distance.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Waypoint%20of%20Nil.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Waypoint%20of%20Nil.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Cemetery.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%20Cemetery.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rasteriser.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rasteriser.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Recursive%20Steppe.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Recursive%20Steppe.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Creature — Human Mystic ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Reclaimer.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Felygon%20Reclaimer.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Dread%20Discovery.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Dread%20Discovery.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Apocalypse%20Engine.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Apocalypse%20Engine.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Anivir%27s%20Warning.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Anivir%27s%20Warning.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Null%20Terminator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Null%20Terminator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Normal%20Mapper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Normal%20Mapper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Irticull%27s%20Crypt.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Irticull%27s%20Crypt.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Storm.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Storm.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Summons.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%20Summons.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Boolean%20Lake.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Boolean%20Lake.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Obfuscated%20Pier.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Obfuscated%20Pier.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Origin%20Point.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Origin%20Point.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Garden%20of%20Nurbs.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Garden%20of%20Nurbs.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Island.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Island.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Mountain.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Mountain.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Swamp.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Swamp.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Forest.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Forest.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact Creature — Zombie Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Wrecking%20Rover.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Wrecking%20Rover.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Blazing%20Devastatasaur.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Blazing%20Devastatasaur.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Hellion ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Blazing%20Insetir.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Blazing%20Insetir.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{9}{R}{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Colossal%20Giraffosaurs.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Colossal%20Giraffosaurs.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Dinosaur Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Terror%20of%20Harsurfir.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Terror%20of%20Harsurfir.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Spawn%20Volcano.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Spawn%20Volcano.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Chromatic%20Channel.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Chromatic%20Channel.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1454,7 +1454,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Heart%20of%20Harsurfir.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Heart%20of%20Harsurfir.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1463,7 +1463,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Leaping%20Carnosaur.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Leaping%20Carnosaur.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1472,7 +1472,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Subsurface%20Spawning.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Subsurface%20Spawning.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1481,7 +1481,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/The%20Latest%20Trends.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/The%20Latest%20Trends.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1490,7 +1490,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Resplendent%20Dawn.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Resplendent%20Dawn.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1499,7 +1499,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Senescence%20Vessel.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Senescence%20Vessel.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1508,7 +1508,7 @@
 	        "mana_cost": "{5}{G}{G}{G}",
 	        "type": "Creature — Fractal Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prefabricated%20Pryntir.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prefabricated%20Pryntir.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1517,7 +1517,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Fox ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Regenerator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%20Regenerator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1526,7 +1526,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Bear ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Guardian%20of%20Erfex%20Fens.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Guardian%20of%20Erfex%20Fens.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1535,7 +1535,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Asset%20Export.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Asset%20Export.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1544,7 +1544,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Artifact Creature — Survivor ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Edravir%2c%20Last%20of%20the%20Obsolete.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Edravir%2c%20Last%20of%20the%20Obsolete.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1553,7 +1553,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Melodic%20Unwrapper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Melodic%20Unwrapper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Geometry%20Nodes.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Geometry%20Nodes.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Looters.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urwrapir%20Looters.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Sparrow%20Spires.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Sparrow%20Spires.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Elephant Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Mirrortusk.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Mirrortusk.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Trawler.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%20Trawler.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Reconstructor.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%20Reconstructor.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Citizen Nightmare ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Productive%20Throng.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Productive%20Throng.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact Creature — Zombie Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Malevolent%20Beseecher.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Malevolent%20Beseecher.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bear ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Revenant.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%20Revenant.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Artifact Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hierarch%20of%20Expiration.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hierarch%20of%20Expiration.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Plant Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hatebloom%20Titangon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hatebloom%20Titangon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Artifact Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Ego%20Eroder.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Ego%20Eroder.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cruel%20Condor.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cruel%20Condor.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Oblivion%20Zealot.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Oblivion%20Zealot.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Pattern%20Processing.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Pattern%20Processing.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%2c%20Rotting%20Realm.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%2c%20Rotting%20Realm.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%2c%20the%20World%20Moat.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%2c%20the%20World%20Moat.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%2c%20Godly%20Quarry.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Harsurfir%2c%20Godly%20Quarry.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%2c%20Restored%20Wilderness.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urwrapir%2c%20Restored%20Wilderness.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Domination%20Center.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Domination%20Center.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1742,7 +1742,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Artifact Creature — Zombie Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Advocate%20of%20Heresy.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Advocate%20of%20Heresy.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Traversal.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Traversal.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1760,7 +1760,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Violator%20of%20Thermodynamics.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Violator%20of%20Thermodynamics.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hierarch%20of%20Exultation.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hierarch%20of%20Exultation.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1778,7 +1778,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Artifact Creature — Zombie Angel ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Serrated%20Angel.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Serrated%20Angel.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1787,7 +1787,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Scavenged%20Technology.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Scavenged%20Technology.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1796,7 +1796,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tithing%20Protocol.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tithing%20Protocol.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1805,7 +1805,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Erfex%20Reclaimer.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Erfex%20Reclaimer.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1814,7 +1814,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%2c%20Utopian%20Sprawl.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Felygon%2c%20Utopian%20Sprawl.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1823,7 +1823,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Maturing%20Ankylosaur.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Maturing%20Ankylosaur.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1832,7 +1832,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Warden.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urwrapir%20Warden.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1841,7 +1841,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Sifter%20Wurm.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Sifter%20Wurm.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1850,7 +1850,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Lost%20in%20Geometry.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Lost%20in%20Geometry.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1859,7 +1859,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Self-Intersector.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Self-Intersector.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1868,7 +1868,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Phoenix ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Self-Assembling%20Phoenix.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Self-Assembling%20Phoenix.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1877,7 +1877,7 @@
 	        "mana_cost": "{6}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Render%20Time.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Render%20Time.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1886,7 +1886,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Reject%20Input.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Reject%20Input.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1895,7 +1895,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Fish ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Shoal%20Summoner.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Shoal%20Summoner.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1904,7 +1904,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Fractal Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Withered%20Scorngon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Withered%20Scorngon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1913,7 +1913,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cruelean%27s%20Enforcer.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cruelean%27s%20Enforcer.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1922,7 +1922,7 @@
 	        "mana_cost": "",
 	        "type": "Land  — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Empty%20Scene.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Empty%20Scene.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1931,7 +1931,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Vehicle ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cultivator%27s%20Caravan.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cultivator%27s%20Caravan.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1940,7 +1940,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Pot%20of%20Wishes.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Pot%20of%20Wishes.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1949,7 +1949,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Boundless%20Ocean.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Boundless%20Ocean.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1958,7 +1958,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Buffer%20Zone.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Buffer%20Zone.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1967,7 +1967,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Extrude%20Wisdom.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Extrude%20Wisdom.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1976,7 +1976,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact Creature — Wall ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Manaqueduct.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Manaqueduct.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1985,7 +1985,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Fractal Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Migrating%20Songon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Migrating%20Songon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -1994,7 +1994,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Packet%20Loss.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Packet%20Loss.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2003,7 +2003,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Frog ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hyperbolic%20Jumper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hyperbolic%20Jumper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2012,7 +2012,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Crab ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Raving%20Crab.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Raving%20Crab.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2021,7 +2021,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Crocodile ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urwrapir%20Ambusher.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urwrapir%20Ambusher.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Trilobite ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Seafloor%20Scrounger.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Seafloor%20Scrounger.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Security%20Breach.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Security%20Breach.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Obsolete%20Sentinel.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Obsolete%20Sentinel.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2057,7 +2057,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Squid ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Squid%20Squad.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Squid%20Squad.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Dinosaur Drake ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nurbs%27%20Collector.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nurbs%27%20Collector.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2075,7 +2075,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Overfisher.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Overfisher.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2084,7 +2084,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Artifact Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Mesh%20Warper.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Mesh%20Warper.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2093,7 +2093,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Bear Mutant ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Fiend.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%20Fiend.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2102,7 +2102,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tidal%20Drift.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tidal%20Drift.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2111,7 +2111,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Submerged%20Titangill.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Submerged%20Titangill.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2120,7 +2120,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Procedural%20Generation.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Procedural%20Generation.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2129,7 +2129,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Pool%20of%20Becoming.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Pool%20of%20Becoming.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2138,7 +2138,7 @@
 	        "mana_cost": "{3}{W}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Unlock%20the%20Quarternion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Unlock%20the%20Quarternion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2147,7 +2147,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Turbulence%20Algorithm.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Turbulence%20Algorithm.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2156,7 +2156,7 @@
 	        "mana_cost": "{G}{U}{R}",
 	        "type": "Legendary Creature — Troll Demigod ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nurbs%2c%20the%20Wild%20King.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nurbs%2c%20the%20Wild%20King.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2165,7 +2165,7 @@
 	        "mana_cost": "{1}{U}{R}{W}",
 	        "type": "Legendary Creature — Human Demigod ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Kinema%2c%20Queen%20Eternal.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Kinema%2c%20Queen%20Eternal.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2174,7 +2174,7 @@
 	        "mana_cost": "{2}{R}{W}{B}",
 	        "type": "Legendary Creature — Cyclops Demigod ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cruelean%2c%20Ruler%20of%20None.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cruelean%2c%20Ruler%20of%20None.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2183,7 +2183,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Nightmare Horse ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Abandonmare.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Abandonmare.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2192,7 +2192,7 @@
 	        "mana_cost": "{B}{G}{U}",
 	        "type": "Legendary Creature — Demon Demigod ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Skirweigh%2c%20Abyssal%20Tsar.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Skirweigh%2c%20Abyssal%20Tsar.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2201,7 +2201,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Systems%20Collapse.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Systems%20Collapse.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2210,7 +2210,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact Creature — Zombie Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Middleware%20Distributor.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Middleware%20Distributor.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2219,7 +2219,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchs%27%20Decree.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Quintarchs%27%20Decree.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2228,7 +2228,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchal%20Pariah.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Quintarchal%20Pariah.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "{W}{W}{W}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Irticull%27s%20Vanguard.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Irticull%27s%20Vanguard.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Ecocide.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Ecocide.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Edravir%27s%20Lynchpin.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Edravir%27s%20Lynchpin.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Urban%20Majesty.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Urban%20Majesty.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Whale ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Lord%20of%20the%20World%20Moat.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Lord%20of%20the%20World%20Moat.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Frog ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Amphibious%20Emulator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Amphibious%20Emulator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Luddite%20Infiltrator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Luddite%20Infiltrator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2300,7 +2300,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Abstraction%20Breaker.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Abstraction%20Breaker.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2309,7 +2309,7 @@
 	        "mana_cost": "{7}{B}",
 	        "type": "Artifact Creature — Zombie Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Flesh%20Centrifuge.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Flesh%20Centrifuge.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2318,7 +2318,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Thassaraptor.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Thassaraptor.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2327,7 +2327,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Harsurfir%20Overseer.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Harsurfir%20Overseer.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2336,7 +2336,7 @@
 	        "mana_cost": "{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Lévy%20Paths.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Lévy%20Paths.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2345,7 +2345,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Usurp%20the%20Quintarchy.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Usurp%20the%20Quintarchy.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Into%20Primal%20Archives.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Into%20Primal%20Archives.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2363,7 +2363,7 @@
 	        "mana_cost": "{G}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Optimise.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Optimise.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Marching%20Cubes.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Marching%20Cubes.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2381,7 +2381,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rastira%20Mauler.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rastira%20Mauler.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{1}{W}{B}{G}",
 	        "type": "Legendary Creature — Spirit Demigod ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Irticull%2c%20Shadow%20Sultan.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Irticull%2c%20Shadow%20Sultan.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2399,7 +2399,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Graphical%20Fidelity.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Graphical%20Fidelity.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2408,7 +2408,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Plains.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Plains.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2417,7 +2417,7 @@
 	        "mana_cost": "{1}{G}{G}{G}",
 	        "type": "Creature — Scorpion ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Tyrannoscorpius%20Rex.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Tyrannoscorpius%20Rex.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2426,7 +2426,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Legendary Planeswalker — Bitrot ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Bitrot%2c%20Nilshroud%20Parasite.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Bitrot%2c%20Nilshroud%20Parasite.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2435,7 +2435,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Legendary Creature — Orb Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/The%20Metaball.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/The%20Metaball.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2444,7 +2444,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Fractal Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Fertile%20Progengon.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Fertile%20Progengon.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2453,7 +2453,7 @@
 	        "mana_cost": "{R}{G}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Deified%20Dicraeosaur.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Deified%20Dicraeosaur.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2462,7 +2462,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prawth%27s%20Ultimatum.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prawth%27s%20Ultimatum.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2471,7 +2471,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Backwards%20Companion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Backwards%20Companion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2480,7 +2480,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Novel%20Perspectives.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Novel%20Perspectives.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Dinosaur Drake ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Felygon%20Skyswarm.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Felygon%20Skyswarm.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2498,7 +2498,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Dynotopic%20Stampede.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Dynotopic%20Stampede.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2507,7 +2507,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Legendary Artifact Creature — Zombie Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Cadix%2c%20the%20Raze-Rager.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Cadix%2c%20the%20Raze-Rager.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2516,7 +2516,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Quintarchal%20Ascension.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Quintarchal%20Ascension.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2525,7 +2525,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Creature — Elephant ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Calf%20of%20the%20Restored%20Age.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Calf%20of%20the%20Restored%20Age.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2534,7 +2534,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Buffer%20Overflow.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Buffer%20Overflow.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Duplicate%20Specialty.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Duplicate%20Specialty.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2552,7 +2552,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Corrupted%20Protocol.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Corrupted%20Protocol.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2561,7 +2561,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Discover%20the%20Obsolete.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Discover%20the%20Obsolete.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2570,7 +2570,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Suffocating%20Pollution.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Suffocating%20Pollution.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "{14}",
 	        "type": "Artifact Creature — Zombie Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Replica%20of%20Haxilir.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Replica%20of%20Haxilir.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "{3}{C}",
 	        "type": "Artifact Creature — Zombie Assassin ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rogue%20Process.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rogue%20Process.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rhystic%20Palace.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rhystic%20Palace.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Ancient%20Activator.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Ancient%20Activator.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2615,7 +2615,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Deprecated%20Dump.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Deprecated%20Dump.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2624,7 +2624,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Conquex%2c%20Broken%20Mandate.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Conquex%2c%20Broken%20Mandate.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2633,7 +2633,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Hallway%20Thomasson.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Hallway%20Thomasson.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Creature — Dinosaur Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Apex.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Apex.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Guzzle%20Giblets.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Guzzle%20Giblets.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Deprecated%20Harvest.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Deprecated%20Harvest.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant — Shader ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Albedo%20Arbalest.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Albedo%20Arbalest.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant — Shader ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Occult%20Occlusion.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Occult%20Occlusion.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2687,7 +2687,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant — Shader ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Metallic%20Mirage.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Metallic%20Mirage.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2696,7 +2696,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant — Shader ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Roughness%20Rails.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Roughness%20Rails.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2705,7 +2705,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant — Shader ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Subsurface%20Scattering.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Subsurface%20Scattering.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2714,7 +2714,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Snail ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Voracious%20Mollusk.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Voracious%20Mollusk.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2723,7 +2723,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Flagstones%20of%20the%20Broken%20Age.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Flagstones%20of%20the%20Broken%20Age.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2732,7 +2732,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Memory%20Spike.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Memory%20Spike.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2741,7 +2741,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Nilshroud%20Mockery.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Nilshroud%20Mockery.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2750,7 +2750,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Grim%20Tutor.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Grim%20Tutor.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2759,7 +2759,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Crashing%20Rot.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Crashing%20Rot.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2768,7 +2768,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Rapid%20Terraforming.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Rapid%20Terraforming.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2777,7 +2777,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Relentless%20Consumption.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Relentless%20Consumption.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2786,7 +2786,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Friends%20Unfettered.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Friends%20Unfettered.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2795,7 +2795,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Texture ",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Shard%20of%20Conquex.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Shard%20of%20Conquex.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2804,7 +2804,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Prefabrication.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Prefabrication.full.jpg?raw=true"
 	        }
 	    },
 	    {
@@ -2813,7 +2813,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Mymiredon/Primivir/main/Ray%20Tracing.jpg"
+	            "en": "https://github.com/Myrmiredon/Primivir/blob/main/Ray%20Tracing.full.jpg?raw=true"
 	        }
 	    }
 	]
@@ -3133,4 +3133,6 @@
 		1 Swamp
 		1 Forest
 		1 Plains
+	[VertexSlot(1)]
+		30 Vertex Reminder
 	
